@@ -1,1944 +1,483 @@
 #EXTM3U
-#EXTINF:0,HRT 1 HR
-http://clientportal.link:80/barker/a5v4ND087/1455
-#EXTINF:0,HRT 2 HR
-http://clientportal.link:80/barker/a5v4ND087/1456
-#EXTINF:0,HRT 3 HR
-http://clientportal.link:80/barker/a5v4ND087/2027
-#EXTINF:0,HRT 4 HR
-http://clientportal.link:80/barker/a5v4ND087/13795
-#EXTINF:0,Nova TV HR
-http://clientportal.link:80/barker/a5v4ND087/1457
-#EXTINF:0,RTL HR
-http://clientportal.link:80/barker/a5v4ND087/1461
-#EXTINF:0,RTL 2 HR
-http://clientportal.link:80/barker/a5v4ND087/3166
-#EXTINF:0,RTL Crime HR
-http://clientportal.link:80/barker/a5v4ND087/13815
-#EXTINF:0,RTL Passion HR
-http://clientportal.link:80/barker/a5v4ND087/11274
-#EXTINF:0,24 Kitchen HR
-http://clientportal.link:80/barker/a5v4ND087/1476
-#EXTINF:0,Doma TV HR
-http://clientportal.link:80/barker/a5v4ND087/1446
-#EXTINF:0,Z1 HR
-http://clientportal.link:80/barker/a5v4ND087/13823
-#EXTINF:0,DocuBox HD RS
-http://clientportal.link:80/barker/a5v4ND087/20143
-#EXTINF:0,AMC HD RS
-http://clientportal.link:80/barker/a5v4ND087/17276
-#EXTINF:0,CBS Reality HR
-http://clientportal.link:80/barker/a5v4ND087/17269
-#EXTINF:0,Da Vinci Learning HR
-http://clientportal.link:80/barker/a5v4ND087/17272
-#EXTINF:0,Food Network HR
-http://clientportal.link:80/barker/a5v4ND087/17267
-#EXTINF:0,Nova TV HD HR
-http://clientportal.link:80/barker/a5v4ND087/17273
-#EXTINF:0,Glas Drine BA
-http://clientportal.link:80/barker/a5v4ND087/20142
-#EXTINF:0,RTL Living HR
-http://clientportal.link:80/barker/a5v4ND087/17264
-#EXTINF:0,Sport Klub 1 HD HR
-http://clientportal.link:80/barker/a5v4ND087/17252
-#EXTINF:0,Sport Klub 2 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/17254
-#EXTINF:0,Sport Klub 4 HR
-http://clientportal.link:80/barker/a5v4ND087/17249
-#EXTINF:0,Sport Klub 5 HR
-http://clientportal.link:80/barker/a5v4ND087/17250
-#EXTINF:0,Sport Klub 6 HR
-http://clientportal.link:80/barker/a5v4ND087/17251
-#EXTINF:0,RTV TK BA
-http://clientportal.link:80/barker/a5v4ND087/3164
-#EXTINF:0,Face TV BA
-http://clientportal.link:80/barker/a5v4ND087/3165
-#EXTINF:0,OBN BA
-http://clientportal.link:80/barker/a5v4ND087/1458
-#EXTINF:0,Al Jazeera Balkans FHD BA
-http://clientportal.link:80/barker/a5v4ND087/3189
-#EXTINF:0,Alternativna TV BA
-http://clientportal.link:80/barker/a5v4ND087/13797
-#EXTINF:0,RTRS RS
-http://clientportal.link:80/barker/a5v4ND087/6566
-#EXTINF:0,Cinemania RS
-http://clientportal.link:80/barker/a5v4ND087/17270
-#EXTINF:0,FightBox FHD RS
-http://clientportal.link:80/barker/a5v4ND087/17259
-#EXTINF:0,B92 RS
-http://clientportal.link:80/barker/a5v4ND087/17262
-#EXTINF:0,Prva Max RS
-http://clientportal.link:80/barker/a5v4ND087/17260
-#EXTINF:0,RTS Svet RS
-http://clientportal.link:80/barker/a5v4ND087/19812
-#EXTINF:0,Sport Klub 3 FHD RS
-http://clientportal.link:80/barker/a5v4ND087/17258
-#EXTINF:0,TV Zenica BA
-http://clientportal.link:80/barker/a5v4ND087/13817
-#EXTINF:0,MTV Igman BA
-http://clientportal.link:80/barker/a5v4ND087/3195
-#EXTINF:0,N1 HD RS
-http://clientportal.link:80/barker/a5v4ND087/3197
-#EXTINF:0,TV Sarajevo BA
-http://clientportal.link:80/barker/a5v4ND087/11282
-#EXTINF:0,RTS 1 HD RS
-http://clientportal.link:80/barker/a5v4ND087/2026
-#EXTINF:0,RTS 1 RS
-http://clientportal.link:80/barker/a5v4ND087/1463
-#EXTINF:0,RTS 2 HD RS
-http://clientportal.link:80/barker/a5v4ND087/1464
-#EXTINF:0,RTS 3 RS
-http://clientportal.link:80/barker/a5v4ND087/13816
-#EXTINF:0,Prva TV RS
-http://clientportal.link:80/barker/a5v4ND087/1460
-#EXTINF:0,Prva Plus RS
-http://clientportal.link:80/barker/a5v4ND087/1459
-#EXTINF:0,Prva World RS
-http://clientportal.link:80/barker/a5v4ND087/13798
-#EXTINF:0,TV Novi Pazar RS
-http://clientportal.link:80/barker/a5v4ND087/11279
-#EXTINF:0,RTV 1 RS
-http://clientportal.link:80/barker/a5v4ND087/13762
-#EXTINF:0,Studio B RS
-http://clientportal.link:80/barker/a5v4ND087/11287
-#EXTINF:0,Happy TV RS
-http://clientportal.link:80/barker/a5v4ND087/3192
-#EXTINF:0,Sandzak TV RS
-http://clientportal.link:80/barker/a5v4ND087/13818
-#EXTINF:0,AXN HR
-http://clientportal.link:80/barker/a5v4ND087/13764
-#EXTINF:0,Diva HR
-http://clientportal.link:80/barker/a5v4ND087/13770
-#EXTINF:0,FilmBox Plus HR
-http://clientportal.link:80/barker/a5v4ND087/13773
-#EXTINF:0,FilmBox Extra RS
-http://clientportal.link:80/barker/a5v4ND087/13805
-#EXTINF:0,FOX HR
-http://clientportal.link:80/barker/a5v4ND087/1448
-#EXTINF:0,FOX Movies HR
-http://clientportal.link:80/barker/a5v4ND087/1451
-#EXTINF:0,FOX Life HR
-http://clientportal.link:80/barker/a5v4ND087/1450
-#EXTINF:0,FOX Crime RS
-http://clientportal.link:80/barker/a5v4ND087/1449
-#EXTINF:0,HBO HD RS
-http://clientportal.link:80/barker/a5v4ND087/1452
-#EXTINF:0,HBO 3 RS
-http://clientportal.link:80/barker/a5v4ND087/13806
-#EXTINF:0,CineStar TV HR
-http://clientportal.link:80/barker/a5v4ND087/13794
-#EXTINF:0,CineStar TV Action HR
-http://clientportal.link:80/barker/a5v4ND087/3180
-#EXTINF:0,CineStar Premiere 1 HD RS
-http://clientportal.link:80/barker/a5v4ND087/1468
-#EXTINF:0,CineStar Premiere 2 HD RS
-http://clientportal.link:80/barker/a5v4ND087/1469
-#EXTINF:0,Cinemax HD RS
-http://clientportal.link:80/barker/a5v4ND087/2022
-#EXTINF:0,Cinemax 2 HD RS
-http://clientportal.link:80/barker/a5v4ND087/2023
-#EXTINF:0,Investigation Discovery FHD RS
-http://clientportal.link:80/barker/a5v4ND087/13783
-#EXTINF:0,Klasik TV HR
-http://clientportal.link:80/barker/a5v4ND087/3194
-#EXTINF:0,TV 1000 HR
-http://clientportal.link:80/barker/a5v4ND087/11275
-#EXTINF:0,Animal Planet HR
-http://clientportal.link:80/barker/a5v4ND087/3178
-#EXTINF:0,Discovery Channel RS
-http://clientportal.link:80/barker/a5v4ND087/1445
-#EXTINF:0,Crime + Investigation HR
-http://clientportal.link:80/barker/a5v4ND087/3191
-#EXTINF:0,History HR
-http://clientportal.link:80/barker/a5v4ND087/1454
-#EXTINF:0,Lov I Ribolov RS
-http://clientportal.link:80/barker/a5v4ND087/3196
-#EXTINF:0,National Geographic HD HR
-http://clientportal.link:80/barker/a5v4ND087/1472
-#EXTINF:0,TLC RS
-http://clientportal.link:80/barker/a5v4ND087/13820
-#EXTINF:0,E! HR
-http://clientportal.link:80/barker/a5v4ND087/1467
-#EXTINF:0,HNTV HR
-http://clientportal.link:80/barker/a5v4ND087/13771
-#EXTINF:0,SOS Kanal RS
-http://clientportal.link:80/barker/a5v4ND087/13819
-#EXTINF:0,Eurosport 1 RS
-http://clientportal.link:80/barker/a5v4ND087/1443
-#EXTINF:0,Eurosport 2 RS
-http://clientportal.link:80/barker/a5v4ND087/1444
-#EXTINF:0,Arena Sport 2 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/17914
-#EXTINF:0,Arena Sport 3 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/17916
-#EXTINF:0,Arena Sport 4 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/17915
-#EXTINF:0,Arena Sport 1 HD HR
-http://clientportal.link:80/barker/a5v4ND087/1436
-#EXTINF:0,Arena Sport 2 HD HR
-http://clientportal.link:80/barker/a5v4ND087/1437
-#EXTINF:0,Arena Sport 3 HD HR
-http://clientportal.link:80/barker/a5v4ND087/1438
-#EXTINF:0,Arena Sport 4 HD HR
-http://clientportal.link:80/barker/a5v4ND087/1439
-#EXTINF:0,Arena Sport 5 HR
-http://clientportal.link:80/barker/a5v4ND087/13827
-#EXTINF:0,Arena Sport 6 HD HR
-http://clientportal.link:80/barker/a5v4ND087/13828
-#EXTINF:0,Arena Sport 1 HD RS
-http://clientportal.link:80/barker/a5v4ND087/3182
-#EXTINF:0,Arena Sport 2 HD RS
-http://clientportal.link:80/barker/a5v4ND087/3183
-#EXTINF:0,Arena Sport 3 RS
-http://clientportal.link:80/barker/a5v4ND087/3184
-#EXTINF:0,Arena Sport 4 HD RS
-http://clientportal.link:80/barker/a5v4ND087/3185
-#EXTINF:0,Arena Sport 5 RS
-http://clientportal.link:80/barker/a5v4ND087/3186
-#EXTINF:0,Sport Klub 1 RS
-http://clientportal.link:80/barker/a5v4ND087/13832
-#EXTINF:0,Sport Klub 2 HR
-http://clientportal.link:80/barker/a5v4ND087/13833
-#EXTINF:0,Sport Klub 3 HR
-http://clientportal.link:80/barker/a5v4ND087/13834
-#EXTINF:0,Sport Klub 4 RS
-http://clientportal.link:80/barker/a5v4ND087/13829
-#EXTINF:0,Sport Klub 5 RS
-http://clientportal.link:80/barker/a5v4ND087/13830
-#EXTINF:0,Sport Klub 6 RS
-http://clientportal.link:80/barker/a5v4ND087/13831
-#EXTINF:0,Sport Klub 1 FHD RS
-http://clientportal.link:80/barker/a5v4ND087/1440
-#EXTINF:0,Sport Klub 2 RS
-http://clientportal.link:80/barker/a5v4ND087/1441
-#EXTINF:0,Sport Klub 3 HD RS
-http://clientportal.link:80/barker/a5v4ND087/1442
-#EXTINF:0,Max Select 1 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20146
-#EXTINF:0,Max Select 2 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20147
-#EXTINF:0,Max Select 3 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20148
-#EXTINF:0,Max Select 4 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20149
-#EXTINF:0,Max Select 5 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20150
-#EXTINF:0,Max Select 6 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20151
-#EXTINF:0,Max Select 7 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20152
-#EXTINF:0,Max Select 8 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20153
-#EXTINF:0,Max Select 9 HD HR
-http://clientportal.link:80/barker/a5v4ND087/20154
-#EXTINF:0,Pink RS
-http://clientportal.link:80/barker/a5v4ND087/2042
-#EXTINF:0,Pink 2 RS
-http://clientportal.link:80/barker/a5v4ND087/2043
-#EXTINF:0,Pink 3 Info RS
-http://clientportal.link:80/barker/a5v4ND087/2044
-#EXTINF:0,Pink Action RS
-http://clientportal.link:80/barker/a5v4ND087/2041
-#EXTINF:0,Pink Comedy RS
-http://clientportal.link:80/barker/a5v4ND087/2045
-#EXTINF:0,Pink Crime & Mystery RS
-http://clientportal.link:80/barker/a5v4ND087/2039
-#EXTINF:0,Pink Classic RS
-http://clientportal.link:80/barker/a5v4ND087/19587
-#EXTINF:0,Pink Extra RS
-http://clientportal.link:80/barker/a5v4ND087/2046
-#EXTINF:0,Pink Film RS
-http://clientportal.link:80/barker/a5v4ND087/3199
-#EXTINF:0,Pink Horror RS
-http://clientportal.link:80/barker/a5v4ND087/2035
-#EXTINF:0,Pink Kuvar RS
-http://clientportal.link:80/barker/a5v4ND087/3176
-#EXTINF:0,Pink World Cinema RS
-http://clientportal.link:80/barker/a5v4ND087/5602
-#EXTINF:0,Pink Plus RS
-http://clientportal.link:80/barker/a5v4ND087/3198
-#EXTINF:0,Pink Premium RS
-http://clientportal.link:80/barker/a5v4ND087/2029
-#EXTINF:0,Pink Reality RS
-http://clientportal.link:80/barker/a5v4ND087/2048
-#EXTINF:0,Pink Romance RS
-http://clientportal.link:80/barker/a5v4ND087/3200
-#EXTINF:0,Pink Serije RS
-http://clientportal.link:80/barker/a5v4ND087/2032
-#EXTINF:0,Pink Sci-fi & Fantasy RS
-http://clientportal.link:80/barker/a5v4ND087/2031
-#EXTINF:0,Pink Soap RS
-http://clientportal.link:80/barker/a5v4ND087/2049
-#EXTINF:0,Pink Thriller RS
-http://clientportal.link:80/barker/a5v4ND087/2040
-#EXTINF:0,Pink Western RS
-http://clientportal.link:80/barker/a5v4ND087/2050
-#EXTINF:0,Pink Pedia RS
-http://clientportal.link:80/barker/a5v4ND087/13753
-#EXTINF:0,Pink Movies RS
-http://clientportal.link:80/barker/a5v4ND087/13758
-#EXTINF:0,Pink Zabava RS
-http://clientportal.link:80/barker/a5v4ND087/2028
-#EXTINF:0,Pink Kids RS
-http://clientportal.link:80/barker/a5v4ND087/2047
-#EXTINF:0,Pink Super Kids RS
-http://clientportal.link:80/barker/a5v4ND087/13761
-#EXTINF:0,Pink Show RS
-http://clientportal.link:80/barker/a5v4ND087/20141
-#EXTINF:0,Baby TV RS
-http://clientportal.link:80/barker/a5v4ND087/13812
-#EXTINF:0,Mini TV RS
-http://clientportal.link:80/barker/a5v4ND087/6565
-#EXTINF:0,Minimax RS
-http://clientportal.link:80/barker/a5v4ND087/6564
-#EXTINF:0,Nickelodeon HR
-http://clientportal.link:80/barker/a5v4ND087/6083
-#EXTINF:0,RTL Kockica HR
-http://clientportal.link:80/barker/a5v4ND087/3167
-#EXTINF:0,CMC TV HR
-http://clientportal.link:80/barker/a5v4ND087/3171
-#EXTINF:0,DM Sat RS
-http://clientportal.link:80/barker/a5v4ND087/3173
-#EXTINF:0,Grand TV RS
-http://clientportal.link:80/barker/a5v4ND087/1475
-#EXTINF:0,Jugoton TV HR
-http://clientportal.link:80/barker/a5v4ND087/6561
-#EXTINF:0,KCN 1 RS
-http://clientportal.link:80/barker/a5v4ND087/13809
-#EXTINF:0,KCN 2 Music RS
-http://clientportal.link:80/barker/a5v4ND087/13810
-#EXTINF:0,KCN 3 Svet Plus RS
-http://clientportal.link:80/barker/a5v4ND087/13811
-#EXTINF:0,OTV Valentino BA
-http://clientportal.link:80/barker/a5v4ND087/3172
-#EXTINF:0,Pink Folk 2 RS
-http://clientportal.link:80/barker/a5v4ND087/2037
-#EXTINF:0,Pink Music RS
-http://clientportal.link:80/barker/a5v4ND087/13759
-#EXTINF:0,Pink Music 2 RS
-http://clientportal.link:80/barker/a5v4ND087/13760
-#EXTINF:0,Pink Hits 2 RS
-http://clientportal.link:80/barker/a5v4ND087/13757
-#EXTINF:0,Pink Folk 1 RS
-http://clientportal.link:80/barker/a5v4ND087/13756
-#EXTINF:0,Pink n Roll RS
-http://clientportal.link:80/barker/a5v4ND087/13755
-#EXTINF:0,Prva Files RS
-http://clientportal.link:80/barker/a5v4ND087/20023
-#EXTINF:0,MTV Adria RS
-http://clientportal.link:80/barker/a5v4ND087/13813
-#EXTINF:0,IDJ TV RS
-http://clientportal.link:80/barker/a5v4ND087/16404
-#EXTINF:0,TV Sehara BA
-http://clientportal.link:80/barker/a5v4ND087/11284
-#EXTINF:0,Duga Plus TV RS
-http://clientportal.link:80/barker/a5v4ND087/3193
-#EXTINF:0,TVCG Sat HD ME
-http://clientportal.link:80/barker/a5v4ND087/13814
-#EXTINF:0,TVCG 2 ME
-http://clientportal.link:80/barker/a5v4ND087/16426
-#EXTINF:0,TV Vijesti ME
-http://clientportal.link:80/barker/a5v4ND087/16427
-#EXTINF:0,Pop Oto SI
-http://clientportal.link:80/barker/a5v4ND087/13791
-#EXTINF:0,FTV BA
-http://clientportal.link:80/barker/a5v4ND087/6087
-#EXTINF:0,Nova S FHD RS
-http://clientportal.link:80/barker/a5v4ND087/19166
-#EXTINF:0,Vinkovacka TV HR
-http://clientportal.link:80/barker/a5v4ND087/11278
-#EXTINF:0,Televizija 5 BA
-http://clientportal.link:80/barker/a5v4ND087/15854
-#EXTINF:0,Slavonska TV HR
-http://clientportal.link:80/barker/a5v4ND087/13802
-#EXTINF:0,Grand 2 RS
-http://clientportal.link:80/barker/a5v4ND087/16816
-#EXTINF:0,N1 BA
-http://clientportal.link:80/barker/a5v4ND087/16817
-#EXTINF:0,N1 HR
-http://clientportal.link:80/barker/a5v4ND087/16818
-#EXTINF:0,Pop TV SI
-http://clientportal.link:80/barker/a5v4ND087/16820
-#EXTINF:0,Sport Klub 2 SI
-http://clientportal.link:80/barker/a5v4ND087/16821
-#EXTINF:0,Sport Klub 3 FHD SI
-http://clientportal.link:80/barker/a5v4ND087/16822
-#EXTINF:0,Sport Klub SI
-http://clientportal.link:80/barker/a5v4ND087/16823
-#EXTINF:0,Pink LOL RS
-http://clientportal.link:80/barker/a5v4ND087/16610
-#EXTINF:0,Pink HAHA RS
-http://clientportal.link:80/barker/a5v4ND087/16611
-#EXTINF:0,BHT 1 HD BA
-http://clientportal.link:80/barker/a5v4ND087/15864
-#EXTINF:0,BN Music BA
-http://clientportal.link:80/barker/a5v4ND087/15863
-#EXTINF:0,BN TV HD BA
-http://clientportal.link:80/barker/a5v4ND087/15862
-#EXTINF:0,Hayat HD BA
-http://clientportal.link:80/barker/a5v4ND087/15861
-#EXTINF:0,Hayat Folk BA
-http://clientportal.link:80/barker/a5v4ND087/15860
-#EXTINF:0,Hayat Plus BA
-http://clientportal.link:80/barker/a5v4ND087/15859
-#EXTINF:0,Hayatovci BA
-http://clientportal.link:80/barker/a5v4ND087/15858
-#EXTINF:0,Sportska TV HD HR
-http://clientportal.link:80/barker/a5v4ND087/13861
-#EXTINF:0,Sport Klub Golf HR
-http://clientportal.link:80/barker/a5v4ND087/17745
-#EXTINF:0,Travel Channel RS
-http://clientportal.link:80/barker/a5v4ND087/17865
-#EXTINF:0,Boomerang RS
-http://clientportal.link:80/barker/a5v4ND087/17925
-#EXTINF:0,DTX HR
-http://clientportal.link:80/barker/a5v4ND087/17924
-#EXTINF:0,National Geographic Wild RS
-http://clientportal.link:80/barker/a5v4ND087/17923
-#EXTINF:0,Nick Jr. HR
-http://clientportal.link:80/barker/a5v4ND087/17922
-#EXTINF:0,HBO 2 HD RS
-http://clientportal.link:80/barker/a5v4ND087/17920
-#EXTINF:0,HBO 3 HD RS
-http://clientportal.link:80/barker/a5v4ND087/17918
-#EXTINF:0,Sport Klub 3 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/17917
-#EXTINF:0,Happy Parovi RS
-http://clientportal.link:80/barker/a5v4ND087/18099
-#EXTINF:0,Pink World RS
-http://clientportal.link:80/barker/a5v4ND087/18098
-#EXTINF:0,Hayat Music BA
-http://clientportal.link:80/barker/a5v4ND087/17271
-#EXTINF:0,TV USK HD BA
-http://clientportal.link:80/barker/a5v4ND087/19138
-#EXTINF:0,Izvorna TV BA
-http://clientportal.link:80/barker/a5v4ND087/18824
-#EXTINF:0,Viasat History RS
-http://clientportal.link:80/barker/a5v4ND087/19006
-#EXTINF:0,777 ME
-http://clientportal.link:80/barker/a5v4ND087/19381
-#EXTINF:0,Golica TV SI
-http://clientportal.link:80/barker/a5v4ND087/19618
-#EXTINF:0,TV Maribor SI
-http://clientportal.link:80/barker/a5v4ND087/19614
-#EXTINF:0,Planet TV HD SI
-http://clientportal.link:80/barker/a5v4ND087/19617
-#EXTINF:0,Pop Brio SI
-http://clientportal.link:80/barker/a5v4ND087/19615
-#EXTINF:0,Pop Kino SI
-http://clientportal.link:80/barker/a5v4ND087/19616
-#EXTINF:0,TV Slovenija 1 SI
-http://clientportal.link:80/barker/a5v4ND087/19611
-#EXTINF:0,TV Slovenija 2 SI
-http://clientportal.link:80/barker/a5v4ND087/19612
-#EXTINF:0,TV Slovenija 3 SI
-http://clientportal.link:80/barker/a5v4ND087/19613
-#EXTINF:0,The Palma Plus RS
-http://clientportal.link:80/barker/a5v4ND087/19624
-#EXTINF:0,Arena Sport 1 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/19004
-#EXTINF:0,Scifi FHD RS
-http://clientportal.link:80/barker/a5v4ND087/22971
-#EXTINF:0,RTS Trezor RS
-http://clientportal.link:80/barker/a5v4ND087/23446
-#EXTINF:0,Pink M ME
-http://clientportal.link:80/barker/a5v4ND087/23661
-#EXTINF:0,Sport Klub 1 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/17256
-#EXTINF:0,Bravo Music RS
-http://clientportal.link:80/barker/a5v4ND087/23850
-#EXTINF:0,Pink Media BH BA
-http://clientportal.link:80/barker/a5v4ND087/23849
-#EXTINF:0,Pink Family RS
-http://clientportal.link:80/barker/a5v4ND087/23848
-#EXTINF:0,Pink Fashion RS
-http://clientportal.link:80/barker/a5v4ND087/23845
-#EXTINF:0,Pink Hits RS
-http://clientportal.link:80/barker/a5v4ND087/23847
-#EXTINF:0,Pink Style RS
-http://clientportal.link:80/barker/a5v4ND087/23846
-#EXTINF:0,CityPLAY RS
-http://clientportal.link:80/barker/a5v4ND087/23844
-#EXTINF:0,Nova M ME
-http://clientportal.link:80/barker/a5v4ND087/24145
-#EXTINF:0,Nova BH BA
-http://clientportal.link:80/barker/a5v4ND087/24144
-#EXTINF:0,Pikaboo RS
-http://clientportal.link:80/barker/a5v4ND087/24143
-#EXTINF:0,Moje Bugojno BA
-http://clientportal.link:80/barker/a5v4ND087/24178
-#EXTINF:0,H2 FHD RS
-http://clientportal.link:80/barker/a5v4ND087/22972
-#EXTINF:0,CineStar TV Fantasy HR
-http://clientportal.link:80/barker/a5v4ND087/24331
-#EXTINF:0,City TV BA
-http://clientportal.link:80/barker/a5v4ND087/24687
-#EXTINF:0,HRT 2 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/24744
-#EXTINF:0,Yu Planet TV RS
-http://clientportal.link:80/barker/a5v4ND087/24862
-#EXTINF:0,Kanal 6 Travnik BA
-http://clientportal.link:80/barker/a5v4ND087/25270
-#EXTINF:0,HRT 1 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/25786
-#EXTINF:0,HRT 3 HD HR
-http://clientportal.link:80/barker/a5v4ND087/25787
-#EXTINF:0,HRT 4 FHD HR
-http://clientportal.link:80/barker/a5v4ND087/25788
-#EXTINF:0,PlanetSport 1 HR
-http://clientportal.link:80/barker/a5v4ND087/26089
-#EXTINF:0,PlanetSport 2 HR
-http://clientportal.link:80/barker/a5v4ND087/26090
-#EXTINF:0,PlanetSport 3 HR
-http://clientportal.link:80/barker/a5v4ND087/26091
-#EXTINF:0,TV 7 Tuzla HD BA
-http://clientportal.link:80/barker/a5v4ND087/26685
-#EXTINF:0,Animal Planet [Multi-sub] Europe
-http://clientportal.link:80/barker/a5v4ND087/27035
-#EXTINF:0,TLC [Multi-sub] Balkans
-http://clientportal.link:80/barker/a5v4ND087/27134
-#EXTINF:0,Superstar TV RS
-http://clientportal.link:80/barker/a5v4ND087/27308
-#EXTINF:0,Sport Klub HD [Multi-audio] ex-Yu
-http://clientportal.link:80/barker/a5v4ND087/27524
-#EXTINF:0,Narodni HR
-http://clientportal.link:80/barker/a5v4ND087/17275
-#EXTINF:0,TV Slon BA
-http://clientportal.link:80/barker/a5v4ND087/27558
-#EXTINF:0,Kino TV HD HR
-http://clientportal.link:80/barker/a5v4ND087/27548
-#EXTINF:0,M1 Film HR
-http://clientportal.link:80/barker/a5v4ND087/27547
-#EXTINF:0,M1 Gold HR
-http://clientportal.link:80/barker/a5v4ND087/27546
-#EXTINF:0,B1 TV BA
-http://clientportal.link:80/barker/a5v4ND087/27660
-#EXTINF:0,Aurora TV HR
-http://clientportal.link:80/barker/a5v4ND087/27658
-#EXTINF:0,Balkan Music ex-Yu
-http://clientportal.link:80/barker/a5v4ND087/27802
-#EXTINF:0,Sport TV 1 HD SI
-http://clientportal.link:80/barker/a5v4ND087/27817
-#EXTINF:0,Sport TV 2 HD SI
-http://clientportal.link:80/barker/a5v4ND087/27818
-#EXTINF:0,Pickbox FHD HR
-http://clientportal.link:80/barker/a5v4ND087/27819
-#EXTINF:0,Max Select Premium FHD HR
-http://clientportal.link:80/barker/a5v4ND087/27821
-#EXTINF:0,Partizan TV RS
-http://clientportal.link:80/barker/a5v4ND087/16401
-#EXTINF:0,Fight Channel HR
-http://clientportal.link:80/barker/a5v4ND087/28086
-#EXTINF:0,Arena Sport / Moja TV HD BH
-http://clientportal.link:80/barker/a5v4ND087/28085
-#EXTINF:0,Viasat Explore RS
-http://clientportal.link:80/barker/a5v4ND087/28071
-#EXTINF:0,National Geographic RS
-http://clientportal.link:80/barker/a5v4ND087/28070
-#EXTINF:0,TV Leskovac RS
-http://clientportal.link:80/barker/a5v4ND087/28068
-#EXTINF:0,Sevdah TV BA
-http://clientportal.link:80/barker/a5v4ND087/28066
-#EXTINF:0,Bosansko Posavska TV BA
-http://clientportal.link:80/barker/a5v4ND087/28064
-#EXTINF:0,TVCG 1 ME
-http://clientportal.link:80/barker/a5v4ND087/28063
-#EXTINF:0,Kanal RI Rijeka HR
-http://clientportal.link:80/barker/a5v4ND087/28056
-#EXTINF:0,HRT International HR
-http://clientportal.link:80/barker/a5v4ND087/28054
-#EXTINF:0,Pink Koncert RS
-http://clientportal.link:80/barker/a5v4ND087/28049
-#EXTINF:0,RTS Drama RS
-http://clientportal.link:80/barker/a5v4ND087/28048
-#EXTINF:0,RTS Muzika RS
-http://clientportal.link:80/barker/a5v4ND087/28047
-#EXTINF:0,RTS Zivot RS
-http://clientportal.link:80/barker/a5v4ND087/28046
-#EXTINF:0,Prva Kick RS
-http://clientportal.link:80/barker/a5v4ND087/28045
-#EXTINF:0,Viasat Nature HR
-http://clientportal.link:80/barker/a5v4ND087/28399
-#EXTINF:0,Elta 1 BH
-http://clientportal.link:80/barker/a5v4ND087/28392
-#EXTINF:0,Elta 2 BH
-http://clientportal.link:80/barker/a5v4ND087/28393
-#EXTINF:0,RTS Kolo RS
-http://clientportal.link:80/barker/a5v4ND087/28390
-#EXTINF:0,BBC Earth Adria ex-Yu
-http://clientportal.link:80/barker/a5v4ND087/28388
-#EXTINF:0,AXN Spin RS
-http://clientportal.link:80/barker/a5v4ND087/28394
-#EXTINF:0,RTV HB BA
-http://clientportal.link:80/barker/a5v4ND087/29547
-#EXTINF:0,Alfa TV BA
-http://clientportal.link:80/barker/a5v4ND087/29548
-#EXTINF:0,RTV Vogosca BA
-http://clientportal.link:80/barker/a5v4ND087/29550
-#EXTINF:0,Hema TV BA
-http://clientportal.link:80/barker/a5v4ND087/29552
-#EXTINF:0,Hit TV BA
-http://clientportal.link:80/barker/a5v4ND087/29553
-#EXTINF:0,Oscar TV BA
-http://clientportal.link:80/barker/a5v4ND087/29554
-#EXTINF:0,Cartoon Network HR
-http://clientportal.link:80/barker/a5v4ND087/29555
-#EXTINF:0,Fight Network Ex-Yu
-http://clientportal.link:80/barker/a5v4ND087/29556
-#EXTINF:0,RTS Poletarac RS
-http://clientportal.link:80/barker/a5v4ND087/29557
-#EXTINF:0,TV Most RS
-http://clientportal.link:80/barker/a5v4ND087/29561
-#EXTINF:0,NTV Jata BA
-http://clientportal.link:80/barker/a5v4ND087/29563
-#EXTINF:0,Nova Sport HD RS
-http://clientportal.link:80/barker/a5v4ND087/29855
-#EXTINF:0,Banovina TV HR
-http://clientportal.link:80/barker/a5v4ND087/30074
-#EXTINF:0,RTV Krajina BA
-http://clientportal.link:80/barker/a5v4ND087/32683
-#EXTINF:0,Amari TV BA
-http://clientportal.link:80/barker/a5v4ND087/32684
-#EXTINF:0,NTV IC Kakanj BA
-http://clientportal.link:80/barker/a5v4ND087/32685
-#EXTINF:0,O Kanal BA
-http://clientportal.link:80/barker/a5v4ND087/32686
-#EXTINF:0,Posavina BA
-http://clientportal.link:80/barker/a5v4ND087/32687
-#EXTINF:0,BBC Earth HD HR
-http://clientportal.link:80/barker/a5v4ND087/28398
-#EXTINF:0,RTV 2 RS
-http://clientportal.link:80/barker/a5v4ND087/33965
-#EXTINF:0,Zadruga Live 1 RS
-http://clientportal.link:80/barker/a5v4ND087/35327
-#EXTINF:0,Zadruga Live 2 RS
-http://clientportal.link:80/barker/a5v4ND087/35328
-#EXTINF:0,Zadruga Live 3 RS
-http://clientportal.link:80/barker/a5v4ND087/35329
-#EXTINF:0,Zadruga Live 4 RS
-http://clientportal.link:80/barker/a5v4ND087/35330
-#EXTINF:0,Star TV RS
-http://clientportal.link:80/barker/a5v4ND087/28252
-#EXTINF:0,Arena Sport 1 RS
-http://clientportal.link:80/barker/a5v4ND087/52131
-#EXTINF:0,Arena Sport 2 RS
-http://clientportal.link:80/barker/a5v4ND087/52132
-#EXTINF:0,Fox HD RS
-http://clientportal.link:80/barker/a5v4ND087/52133
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 1" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 1
-http://admin-mainpanel.club:8080/daniel/daniel/33669
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 2" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 2
-http://admin-mainpanel.club:8080/daniel/daniel/33670
-#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 3" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 3
-http://admin-mainpanel.club:8080/daniel/daniel/33671
-#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 4" tvg-logo="" group-title="Live: EX-Yu",VIP RS: Zadruga Uživo 4
-http://admin-mainpanel.club:8080/daniel/daniel/33672
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BH: Nova Sport FHD" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Nova Sport FHD
-http://admin-mainpanel.club:8080/daniel/daniel/34653
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BH: Nova Sport HD" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Nova Sport HD
-http://admin-mainpanel.club:8080/daniel/daniel/34562
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Balkanska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Balkanska
-http://admin-mainpanel.club:8080/daniel/daniel/42666
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Bosnjacka" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Bosnjacka
-http://admin-mainpanel.club:8080/daniel/daniel/42665
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Cinema" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Cinema
-http://admin-mainpanel.club:8080/daniel/daniel/42664
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Cinema Plus" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Cinema Plus
-http://admin-mainpanel.club:8080/daniel/daniel/42663
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Crnogorska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Crnogorska
-http://admin-mainpanel.club:8080/daniel/daniel/42662
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Exclusive" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Exclusive
-http://admin-mainpanel.club:8080/daniel/daniel/42661
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Islamska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Islamska
-http://admin-mainpanel.club:8080/daniel/daniel/42660
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Muzicka" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Muzicka
-http://admin-mainpanel.club:8080/daniel/daniel/42659
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Nasheed" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Nasheed
-http://admin-mainpanel.club:8080/daniel/daniel/42658
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Plus" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Plus
-http://admin-mainpanel.club:8080/daniel/daniel/42657
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra S. Makedonska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra S. Makedonska
-http://admin-mainpanel.club:8080/daniel/daniel/42656
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Sevdah" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Sevdah
-http://admin-mainpanel.club:8080/daniel/daniel/42655
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Sportska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Sportska
-http://admin-mainpanel.club:8080/daniel/daniel/42654
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Srpska" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Srpska
-http://admin-mainpanel.club:8080/daniel/daniel/42653
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Svadba" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Svadba
-http://admin-mainpanel.club:8080/daniel/daniel/42652
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Travel" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra Travel
-http://admin-mainpanel.club:8080/daniel/daniel/42651
-#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra World Music" tvg-logo="" group-title="Live: EX-Yu",VIP BH: Dobra World Music
-http://admin-mainpanel.club:8080/daniel/daniel/42650
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 1" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 1
-http://admin-mainpanel.club:8080/daniel/daniel/31093
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 2" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 2
-http://admin-mainpanel.club:8080/daniel/daniel/31094
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 3" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 3
-http://admin-mainpanel.club:8080/daniel/daniel/31095
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 4" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 4
-http://admin-mainpanel.club:8080/daniel/daniel/31096
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: ARENA SPORT FHD 5" tvg-logo="[" group-title="Live: EX-Yu",VIP RS: ARENA SPORT FHD 5
-http://admin-mainpanel.club:8080/daniel/daniel/31097
-#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="VIP CRO: ARENA SPORT FHD 1" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 1
-http://admin-mainpanel.club:8080/daniel/daniel/20644
-#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="VIP CRO: ARENA SPORT FHD 2" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 2
-http://admin-mainpanel.club:8080/daniel/daniel/20643
-#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="VIP CRO: ARENA SPORT FHD 3" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 3
-http://admin-mainpanel.club:8080/daniel/daniel/20642
-#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="VIP CRO: ARENA SPORT FHD 4" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 4
-http://admin-mainpanel.club:8080/daniel/daniel/20641
-#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="VIP CRO: ARENA SPORT FHD 5" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 5
-http://admin-mainpanel.club:8080/daniel/daniel/20640
-#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="VIP CRO: ARENA SPORT FHD 6" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: ARENA SPORT FHD 6
-http://admin-mainpanel.club:8080/daniel/daniel/20639
-#EXTINF:-1 tvg-ID="planetsport1.ht" tvg-name="VIP CRO: PLANET SPORT 1 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/19187
-#EXTINF:-1 tvg-ID="planetsport2.hr" tvg-name="VIP CRO: PLANET SPORT 2 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/19188
-#EXTINF:-1 tvg-ID="planetsport3.hr" tvg-name="VIP CRO: PLANET SPORT 3 HD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: PLANET SPORT 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/19189
-#EXTINF:-1 tvg-ID="sportklub1.hr" tvg-name="VIP CRO: SPORT KLUB 1 FHD" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 1 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/20654
-#EXTINF:-1 tvg-ID="sportklub2.hr" tvg-name="VIP CRO: SPORT KLUB 2 FHD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 2 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/20653
-#EXTINF:-1 tvg-ID="sportklub3.hr" tvg-name="VIP CRO: SPORT KLUB 3 FHD" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 3 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/20652
-#EXTINF:-1 tvg-ID="sportklub4.hr" tvg-name="VIP CRO: SPORT KLUB 4" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 4
-http://admin-mainpanel.club:8080/daniel/daniel/20651
-#EXTINF:-1 tvg-ID="sportklub5.hr" tvg-name="VIP CRO: SPORT KLUB 5" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 5
-http://admin-mainpanel.club:8080/daniel/daniel/20650
-#EXTINF:-1 tvg-ID="sportklub6.hr" tvg-name="VIP CRO: SPORT KLUB 6" tvg-logo="" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 6
-http://admin-mainpanel.club:8080/daniel/daniel/20649
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 7" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 7
-http://admin-mainpanel.club:8080/daniel/daniel/20648
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 8" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 8
-http://admin-mainpanel.club:8080/daniel/daniel/20647
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 9" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 9
-http://admin-mainpanel.club:8080/daniel/daniel/20646
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 10" tvg-logo="[" group-title="Live: EX-Yu",VIP CRO: SPORT KLUB 10
-http://admin-mainpanel.club:8080/daniel/daniel/20645
-#EXTINF:-1 tvg-ID="" tvg-name="==== Slovenia ====" tvg-logo="" group-title="",==== Slovenia ====
-http://admin-mainpanel.club:8080/daniel/daniel/4018
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 1 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/9298
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 2 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/9297
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 3 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/9296
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 1" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 1
-http://admin-mainpanel.club:8080/daniel/daniel/9295
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 2" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 2
-http://admin-mainpanel.club:8080/daniel/daniel/9294
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 3" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 3
-http://admin-mainpanel.club:8080/daniel/daniel/9293
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 4" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 4
-http://admin-mainpanel.club:8080/daniel/daniel/9299
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 5" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 5
-http://admin-mainpanel.club:8080/daniel/daniel/9290
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 6" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB 6
-http://admin-mainpanel.club:8080/daniel/daniel/9289
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB GOLF" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORTKLUB GOLF
-http://admin-mainpanel.club:8080/daniel/daniel/19309
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SLO 1 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/9314
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SLO 2 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/9313
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SLO 3" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SLO 3
-http://admin-mainpanel.club:8080/daniel/daniel/9287
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: TV3 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: TV3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/19198
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP TV HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP TV HD
-http://admin-mainpanel.club:8080/daniel/daniel/9312
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP BRIO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP BRIO HD
-http://admin-mainpanel.club:8080/daniel/daniel/9310
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP KINO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP KINO HD
-http://admin-mainpanel.club:8080/daniel/daniel/9311
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: POP OTO HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: POP OTO HD
-http://admin-mainpanel.club:8080/daniel/daniel/9309
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: KANAL A HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: KANAL A HD
-http://admin-mainpanel.club:8080/daniel/daniel/9308
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: PLANET TV HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PLANET TV HD
-http://admin-mainpanel.club:8080/daniel/daniel/9307
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: PLANET 2 TV" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PLANET 2 TV
-http://admin-mainpanel.club:8080/daniel/daniel/9286
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: PLANET PLUS HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: PLANET PLUS HD
-http://admin-mainpanel.club:8080/daniel/daniel/32889
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: AMC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: AMC HD
-http://admin-mainpanel.club:8080/daniel/daniel/32846
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: ANIMAL PLANET HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: ANIMAL PLANET HD
-http://admin-mainpanel.club:8080/daniel/daniel/32868
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: ARCADIA WORLD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: ARCADIA WORLD HD
-http://admin-mainpanel.club:8080/daniel/daniel/32865
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: AXN" tvg-logo="" group-title="Live: Slovenia",VIP SLO: AXN
-http://admin-mainpanel.club:8080/daniel/daniel/32877
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: BABY TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BABY TV
-http://admin-mainpanel.club:8080/daniel/daniel/32885
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: BBC EARTH HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BBC EARTH HD
-http://admin-mainpanel.club:8080/daniel/daniel/32867
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: BK TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: BK TV
-http://admin-mainpanel.club:8080/daniel/daniel/32879
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: CBS REALITY" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CBS REALITY
-http://admin-mainpanel.club:8080/daniel/daniel/32874
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR ACTION HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR ACTION HD
-http://admin-mainpanel.club:8080/daniel/daniel/32845
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR FANTASY HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR FANTASY HD
-http://admin-mainpanel.club:8080/daniel/daniel/32844
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR PREMIERE 1 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR PREMIERE 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/32842
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: CINESTAR PREMIERE 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: CINESTAR PREMIERE 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/32843
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DA VINCI LEARING" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DA VINCI LEARING
-http://admin-mainpanel.club:8080/daniel/daniel/32873
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DISCOVERY CHANNEL" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: DISCOVERY CHANNEL
-http://admin-mainpanel.club:8080/daniel/daniel/9278
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY ID HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY ID HD
-http://admin-mainpanel.club:8080/daniel/daniel/32858
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY SCIENCE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY SCIENCE HD
-http://admin-mainpanel.club:8080/daniel/daniel/32857
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY SHOWCASE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY SHOWCASE HD
-http://admin-mainpanel.club:8080/daniel/daniel/32856
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISCOVERY TURBO XTRA HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISCOVERY TURBO XTRA HD
-http://admin-mainpanel.club:8080/daniel/daniel/32855
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DISNEY JUNIOR HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISNEY JUNIOR HD
-http://admin-mainpanel.club:8080/daniel/daniel/32888
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: DISNEY XD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DISNEY XD HD
-http://admin-mainpanel.club:8080/daniel/daniel/32887
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DIVA" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: DIVA
-http://admin-mainpanel.club:8080/daniel/daniel/19197
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: EPIC DRAMA HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EPIC DRAMA HD
-http://admin-mainpanel.club:8080/daniel/daniel/32847
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: EUROSPORT 1 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EUROSPORT 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/32850
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: EUROSPORT 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: EUROSPORT 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/32851
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: FASHION HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FASHION HD
-http://admin-mainpanel.club:8080/daniel/daniel/32872
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FIGHT NETWORK HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FIGHT NETWORK HD
-http://admin-mainpanel.club:8080/daniel/daniel/32854
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX Crime" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: FOX Crime
-http://admin-mainpanel.club:8080/daniel/daniel/19196
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FOX HD
-http://admin-mainpanel.club:8080/daniel/daniel/32848
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX LIFE HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: FOX LIFE HD
-http://admin-mainpanel.club:8080/daniel/daniel/32849
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FOX Movies" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: FOX Movies
-http://admin-mainpanel.club:8080/daniel/daniel/9292
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: GOLD TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: GOLD TV
-http://admin-mainpanel.club:8080/daniel/daniel/32878
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: GTV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: GTV
-http://admin-mainpanel.club:8080/daniel/daniel/32882
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: HBO" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: HBO
-http://admin-mainpanel.club:8080/daniel/daniel/9291
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: HBO 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HBO 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/32840
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: HBO 3 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HBO 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/32841
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: HISTORY CHANNEL 2 HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HISTORY CHANNEL 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/32862
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: HISTORY CHANNEL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: HISTORY CHANNEL HD
-http://admin-mainpanel.club:8080/daniel/daniel/32861
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: JIM JAM" tvg-logo="" group-title="Live: Slovenia",VIP SLO: JIM JAM
-http://admin-mainpanel.club:8080/daniel/daniel/32886
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: MINIMAX" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: MINIMAX
-http://admin-mainpanel.club:8080/daniel/daniel/9300
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: MMC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: MMC HD
-http://admin-mainpanel.club:8080/daniel/daniel/32881
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NATIONAL GEOGRAPHIC HD
-http://admin-mainpanel.club:8080/daniel/daniel/32859
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NATIONAL GEOGRAPHIC WILD HD
-http://admin-mainpanel.club:8080/daniel/daniel/32860
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: NICKELODEON" tvg-logo="" group-title="Live: Slovenia",VIP SLO: NICKELODEON
-http://admin-mainpanel.club:8080/daniel/daniel/32884
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: NOVA 24 TV" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: NOVA 24 TV
-http://admin-mainpanel.club:8080/daniel/daniel/9284
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: PETELIN" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: PETELIN
-http://admin-mainpanel.club:8080/daniel/daniel/9288
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: PLANET EARTH HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: PLANET EARTH HD
-http://admin-mainpanel.club:8080/daniel/daniel/32866
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: RED BULL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: RED BULL HD
-http://admin-mainpanel.club:8080/daniel/daniel/32852
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SCI-FI" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SCI-FI
-http://admin-mainpanel.club:8080/daniel/daniel/9283
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TRAVEL CHANNEL HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TRAVEL CHANNEL HD
-http://admin-mainpanel.club:8080/daniel/daniel/32863
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TRAVEL XP HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TRAVEL XP HD
-http://admin-mainpanel.club:8080/daniel/daniel/32864
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TV 1000" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TV 1000
-http://admin-mainpanel.club:8080/daniel/daniel/32875
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: TV MARIBOR" tvg-logo="" group-title="Live: Slovenia",VIP SLO: TV MARIBOR
-http://admin-mainpanel.club:8080/daniel/daniel/32880
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: UFC FIGHT PASS HD" tvg-logo="" group-title="Live: Slovenia",VIP SLO: UFC FIGHT PASS HD
-http://admin-mainpanel.club:8080/daniel/daniel/32853
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VESELJAK TV" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VESELJAK TV
-http://admin-mainpanel.club:8080/daniel/daniel/32883
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VIASAT EXPLORE" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT EXPLORE
-http://admin-mainpanel.club:8080/daniel/daniel/32870
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VIASAT HISTORY" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT HISTORY
-http://admin-mainpanel.club:8080/daniel/daniel/32869
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SLO: VIASAT NATURE" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VIASAT NATURE
-http://admin-mainpanel.club:8080/daniel/daniel/32871
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: VOYO" tvg-logo="" group-title="Live: Slovenia",VIP SLO: VOYO
-http://admin-mainpanel.club:8080/daniel/daniel/32876
-#EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 1
-http://admin-mainpanel.club:8080/daniel/daniel/1033
-#EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 1 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/23715
-#EXTINF:-1 tvg-ID="htv2.hr" tvg-name="CRO: HRT 2" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 2
-http://admin-mainpanel.club:8080/daniel/daniel/1034
-#EXTINF:-1 tvg-ID="htv2.hr" tvg-name="CRO: HRT 2 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 2 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/23714
-#EXTINF:-1 tvg-ID="htv3.hr" tvg-name="CRO: HRT 3" tvg-logo="" group-title="Live: EX-Yu",CRO: HRT 3
-http://admin-mainpanel.club:8080/daniel/daniel/1035
-#EXTINF:-1 tvg-ID="htv3.hr" tvg-name="CRO: HRT 3 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 3 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/23713
-#EXTINF:-1 tvg-ID="htv4.hr" tvg-name="CRO: HRT 4" tvg-logo="" group-title="Live: EX-Yu",CRO: HRT 4
-http://admin-mainpanel.club:8080/daniel/daniel/1036
-#EXTINF:-1 tvg-ID="htv4.hr" tvg-name="CRO: HRT 4 FHD" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT 4 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/23712
-#EXTINF:-1 tvg-ID="htvinternational.hr" tvg-name="CRO: HRT Int" tvg-logo="[" group-title="Live: EX-Yu",CRO: HRT Int
-http://admin-mainpanel.club:8080/daniel/daniel/20422
-#EXTINF:-1 tvg-ID="novahd.hr" tvg-name="CRO: NOVA HD" tvg-logo="" group-title="Live: EX-Yu",CRO: NOVA HD
-http://admin-mainpanel.club:8080/daniel/daniel/2482
-#EXTINF:-1 tvg-ID="prvaplus.rs" tvg-name="CRO: PRVA PLUS" tvg-logo="" group-title="Live: EX-Yu",CRO: PRVA PLUS
-http://admin-mainpanel.club:8080/daniel/daniel/2495
-#EXTINF:-1 tvg-ID="prva.rs" tvg-name="CRO: PRVA TV" tvg-logo="" group-title="Live: EX-Yu",CRO: PRVA TV
-http://admin-mainpanel.club:8080/daniel/daniel/2481
-#EXTINF:-1 tvg-ID="rtl.hr" tvg-name="CRO: RTL HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL HD
-http://admin-mainpanel.club:8080/daniel/daniel/2480
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: RTL" tvg-logo="" group-title="Live: EX-Yu",CRO: RTL
-http://admin-mainpanel.club:8080/daniel/daniel/52368
-#EXTINF:-1 tvg-ID="rtl2.hr" tvg-name="CRO: RTL 2" tvg-logo="" group-title="Live: EX-Yu",CRO: RTL 2
-http://admin-mainpanel.club:8080/daniel/daniel/2479
-#EXTINF:-1 tvg-ID="" tvg-name="CRO: RTL ADRIA" tvg-logo="" group-title="Live: EX-Yu",CRO: RTL ADRIA
-http://admin-mainpanel.club:8080/daniel/daniel/42965
-#EXTINF:-1 tvg-ID="rtlcrime.hr" tvg-name="CRO: RTL CRIME" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL CRIME
-http://admin-mainpanel.club:8080/daniel/daniel/2478
-#EXTINF:-1 tvg-ID="rtlliving.hr" tvg-name="CRO: RTL LIVING" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL LIVING
-http://admin-mainpanel.club:8080/daniel/daniel/2477
-#EXTINF:-1 tvg-ID="rtlpassion.hr" tvg-name="CRO: RTL PASSION" tvg-logo="[" group-title="Live: EX-Yu",CRO: RTL PASSION
-http://admin-mainpanel.club:8080/daniel/daniel/13596
-#EXTINF:-1 tvg-ID="babytv.rs" tvg-name="CRO: Baby TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Baby TV
-http://admin-mainpanel.club:8080/daniel/daniel/23672
-#EXTINF:-1 tvg-ID="nickelodeon.hr" tvg-name="CRO: Nickelodeon" tvg-logo="[" group-title="Live: EX-Yu",CRO: Nickelodeon
-http://admin-mainpanel.club:8080/daniel/daniel/23673
-#EXTINF:-1 tvg-ID="nationalgeographic.hr" tvg-name="CRO: National Geographic" tvg-logo="[" group-title="Live: EX-Yu",CRO: National Geographic
-http://admin-mainpanel.club:8080/daniel/daniel/23658
-#EXTINF:-1 tvg-ID="nickjr.hr" tvg-name="CRO: Nick Jr" tvg-logo="[" group-title="Live: EX-Yu",CRO: Nick Jr
-http://admin-mainpanel.club:8080/daniel/daniel/23674
-#EXTINF:-1 tvg-ID="minitv.hr" tvg-name="CRO: Mini TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Mini TV
-http://admin-mainpanel.club:8080/daniel/daniel/23671
-#EXTINF:-1 tvg-ID="" tvg-name="CRO: M1 Film" tvg-logo="" group-title="Live: EX-Yu",CRO: M1 Film
-http://admin-mainpanel.club:8080/daniel/daniel/23693
-#EXTINF:-1 tvg-ID="cbsreality.hr" tvg-name="CRO: CBS Reality" tvg-logo="[" group-title="Live: EX-Yu",CRO: CBS Reality
-http://admin-mainpanel.club:8080/daniel/daniel/23662
-#EXTINF:-1 tvg-ID="cinemax.hr" tvg-name="CRO: CINEMAX" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINEMAX
-http://admin-mainpanel.club:8080/daniel/daniel/2490
-#EXTINF:-1 tvg-ID="cinemax2.hr" tvg-name="CRO: CINEMAX 2" tvg-logo="" group-title="Live: EX-Yu",CRO: CINEMAX 2
-http://admin-mainpanel.club:8080/daniel/daniel/2489
-#EXTINF:-1 tvg-ID="cinestarpremiere1.hr" tvg-name="CRO: CINESTAR PREMIERE 1" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR PREMIERE 1
-http://admin-mainpanel.club:8080/daniel/daniel/2488
-#EXTINF:-1 tvg-ID="cinestarpremiere2.hr" tvg-name="CRO: CINESTAR PREMIERE 2" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR PREMIERE 2
-http://admin-mainpanel.club:8080/daniel/daniel/2487
-#EXTINF:-1 tvg-ID="cinestartv.hr" tvg-name="CRO: CINESTAR TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR TV
-http://admin-mainpanel.club:8080/daniel/daniel/2486
-#EXTINF:-1 tvg-ID="cinestaractionandthriller.hr" tvg-name="CRO: CINESTAR TV ACTION" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR TV ACTION
-http://admin-mainpanel.club:8080/daniel/daniel/2485
-#EXTINF:-1 tvg-ID="cinestarfantasy.rs" tvg-name="CRO: CINESTAR TV Fantasy HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: CINESTAR TV Fantasy HD
-http://admin-mainpanel.club:8080/daniel/daniel/23677
-#EXTINF:-1 tvg-ID="filmboxextrahd.hr" tvg-name="CRO: FILMBOX EXTRA" tvg-logo="[" group-title="Live: EX-Yu",CRO: FILMBOX EXTRA
-http://admin-mainpanel.club:8080/daniel/daniel/13598
-#EXTINF:-1 tvg-ID="filmboxplus.hr" tvg-name="CRO: FILMBOX PLUS" tvg-logo="" group-title="Live: EX-Yu",CRO: FILMBOX PLUS
-http://admin-mainpanel.club:8080/daniel/daniel/13599
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 1" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 1
-http://admin-mainpanel.club:8080/daniel/daniel/23689
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 2" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 2
-http://admin-mainpanel.club:8080/daniel/daniel/23688
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 3" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 3
-http://admin-mainpanel.club:8080/daniel/daniel/23687
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 4" tvg-logo="" group-title="Live: EX-Yu",CRO: Filmovi 4
-http://admin-mainpanel.club:8080/daniel/daniel/23686
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: CINESTAR TV 2" tvg-logo="" group-title="Live: EX-Yu",CRO: CINESTAR TV 2
-http://admin-mainpanel.club:8080/daniel/daniel/23676
-#EXTINF:-1 tvg-ID="croatianmusicchannel.hr" tvg-name="CRO: CMC" tvg-logo="" group-title="Live: EX-Yu",CRO: CMC
-http://admin-mainpanel.club:8080/daniel/daniel/2484
-#EXTINF:-1 tvg-ID="comedycentralextra.hr" tvg-name="CRO: Comedy Central Extra" tvg-logo="" group-title="Live: EX-Yu",CRO: Comedy Central Extra
-http://admin-mainpanel.club:8080/daniel/daniel/23675
-#EXTINF:-1 tvg-ID="crimeandinvestigation.rs" tvg-name="CRO: Crime & Investigation" tvg-logo="[" group-title="Live: EX-Yu",CRO: Crime & Investigation
-http://admin-mainpanel.club:8080/daniel/daniel/23663
-#EXTINF:-1 tvg-ID="discovery.hr" tvg-name="CRO: Discovery Channel" tvg-logo="" group-title="Live: EX-Yu",CRO: Discovery Channel
-http://admin-mainpanel.club:8080/daniel/daniel/23667
-#EXTINF:-1 tvg-ID="" tvg-name="CRO: Discovery ID" tvg-logo="[""]" group-title="Live: EX-Yu",CRO: Discovery ID
-http://admin-mainpanel.club:8080/daniel/daniel/23666
-#EXTINF:-1 tvg-ID="discoveryidxtra.rs" tvg-name="CRO: Discovery ID Xtra HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Discovery ID Xtra HD
-http://admin-mainpanel.club:8080/daniel/daniel/23664
-#EXTINF:-1 tvg-ID="discoveryscience.hr" tvg-name="CRO: Discovery Science HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Discovery Science HD
-http://admin-mainpanel.club:8080/daniel/daniel/23665
-#EXTINF:-1 tvg-ID="diva.hr" tvg-name="CRO: Diva" tvg-logo="[" group-title="Live: EX-Yu",CRO: Diva
-http://admin-mainpanel.club:8080/daniel/daniel/13594
-#EXTINF:-1 tvg-ID="" tvg-name="CRO: DocuBox" tvg-logo="" group-title="Live: EX-Yu",CRO: DocuBox
-http://admin-mainpanel.club:8080/daniel/daniel/23690
-#EXTINF:-1 tvg-ID="domatv.hr" tvg-name="CRO: Doma TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Doma TV
-http://admin-mainpanel.club:8080/daniel/daniel/13595
-#EXTINF:-1 tvg-ID="E!" tvg-name="CRO: E!" tvg-logo="[" group-title="Live: EX-Yu",CRO: E!
-http://admin-mainpanel.club:8080/daniel/daniel/23670
-#EXTINF:-1 tvg-ID="fox.hr" tvg-name="CRO: FOX" tvg-logo="[" group-title="Live: EX-Yu",CRO: FOX
-http://admin-mainpanel.club:8080/daniel/daniel/2496
-#EXTINF:-1 tvg-ID="foxcrime.hr" tvg-name="CRO: Fox Crime" tvg-logo="[" group-title="Live: EX-Yu",CRO: Fox Crime
-http://admin-mainpanel.club:8080/daniel/daniel/23681
-#EXTINF:-1 tvg-ID="foxlife.hr" tvg-name="CRO: Fox Life" tvg-logo="[" group-title="Live: EX-Yu",CRO: Fox Life
-http://admin-mainpanel.club:8080/daniel/daniel/23680
-#EXTINF:-1 tvg-ID="filmboxextrahd.hr" tvg-name="CRO: FOX MOVIES" tvg-logo="[" group-title="Live: EX-Yu",CRO: FOX MOVIES
-http://admin-mainpanel.club:8080/daniel/daniel/2483
-#EXTINF:-1 tvg-ID="hbo.hr" tvg-name="CRO: HBO ADRIA HD" tvg-logo="" group-title="Live: EX-Yu",CRO: HBO ADRIA HD
-http://admin-mainpanel.club:8080/daniel/daniel/2491
-#EXTINF:-1 tvg-ID="hbo2.hr" tvg-name="CRO: HBO 2 FHD" tvg-logo="" group-title="Live: EX-Yu",CRO: HBO 2 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/23679
-#EXTINF:-1 tvg-ID="hbo3.hr" tvg-name="CRO: HBO 3 FHD" tvg-logo="" group-title="Live: EX-Yu",CRO: HBO 3 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/23678
-#EXTINF:-1 tvg-ID="scifich.hr" tvg-name="CRO: SciFi" tvg-logo="[" group-title="Live: EX-Yu",CRO: SciFi
-http://admin-mainpanel.club:8080/daniel/daniel/23685
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: KINO HD" tvg-logo="" group-title="Live: EX-Yu",CRO: KINO HD
-http://admin-mainpanel.club:8080/daniel/daniel/23683
-#EXTINF:-1 tvg-ID="historychannelhd.hr" tvg-name="CRO: History 2" tvg-logo="[" group-title="Live: EX-Yu",CRO: History 2
-http://admin-mainpanel.club:8080/daniel/daniel/23659
-#EXTINF:-1 tvg-ID="historychannel.hr" tvg-name="CRO: History Channel" tvg-logo="[" group-title="Live: EX-Yu",CRO: History Channel
-http://admin-mainpanel.club:8080/daniel/daniel/23660
-#EXTINF:-1 tvg-ID="hntv.hr" tvg-name="CRO: HNTV" tvg-logo="[" group-title="Live: EX-Yu",CRO: HNTV
-http://admin-mainpanel.club:8080/daniel/daniel/23651
-#EXTINF:-1 tvg-ID="" tvg-name="CRO: Jabuka TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Jabuka TV
-http://admin-mainpanel.club:8080/daniel/daniel/23697
-#EXTINF:-1 tvg-ID="jugoton.hr" tvg-name="CRO: Jugoton TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Jugoton TV
-http://admin-mainpanel.club:8080/daniel/daniel/23699
-#EXTINF:-1 tvg-ID="kanalri.hr" tvg-name="CRO: Kanal Ri" tvg-logo="" group-title="Live: EX-Yu",CRO: Kanal Ri
-http://admin-mainpanel.club:8080/daniel/daniel/23702
-#EXTINF:-1 tvg-ID="klasiktv.hr" tvg-name="CRO: Klasik TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Klasik TV
-http://admin-mainpanel.club:8080/daniel/daniel/13600
-#EXTINF:-1 tvg-ID="kreatortv.hr" tvg-name="CRO: Kreator TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Kreator TV
-http://admin-mainpanel.club:8080/daniel/daniel/23652
-#EXTINF:-1 tvg-ID="laudatotv.hr" tvg-name="CRO: Laudato TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Laudato TV
-http://admin-mainpanel.club:8080/daniel/daniel/23704
-#EXTINF:-1 tvg-ID="loviribolov.rs" tvg-name="CRO: Lov I Ribolov" tvg-logo="[" group-title="Live: EX-Yu",CRO: Lov I Ribolov
-http://admin-mainpanel.club:8080/daniel/daniel/23661
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 1 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23649
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 2 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23646
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 3 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23645
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 4 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 4 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23644
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 5 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 5 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23643
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 6 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 6 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23642
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 7 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 7 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23641
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 8 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 8 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23640
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 9 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 9 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23639
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 10 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 10 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23648
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 11 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: MAXCRO SELECT 11 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23647
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT Action HD" tvg-logo="" group-title="Live: EX-Yu",CRO: MAXCRO SELECT Action HD
-http://admin-mainpanel.club:8080/daniel/daniel/23637
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Mreza Split" tvg-logo="" group-title="Live: EX-Yu",CRO: Mreza Split
-http://admin-mainpanel.club:8080/daniel/daniel/23638
-#EXTINF:-1 tvg-ID="mtvadria.cr" tvg-name="CRO: MTV Adria" tvg-logo="" group-title="Live: EX-Yu",CRO: MTV Adria
-http://admin-mainpanel.club:8080/daniel/daniel/23703
-#EXTINF:-1 tvg-ID="n1.hr" tvg-name="CRO: N1 Hrvatska" tvg-logo="[" group-title="Live: EX-Yu",CRO: N1 Hrvatska
-http://admin-mainpanel.club:8080/daniel/daniel/23711
-#EXTINF:-1 tvg-ID="narodnatv.hr" tvg-name="CRO: Narodna TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Narodna TV
-http://admin-mainpanel.club:8080/daniel/daniel/23695
-#EXTINF:-1 tvg-ID="natgeowild.hr" tvg-name="CRO: Nat Geo Wild" tvg-logo="[" group-title="Live: EX-Yu",CRO: Nat Geo Wild
-http://admin-mainpanel.club:8080/daniel/daniel/23657
-#EXTINF:-1 tvg-ID="novatv.hr" tvg-name="CRO: Nova World" tvg-logo="" group-title="Live: EX-Yu",CRO: Nova World
-http://admin-mainpanel.club:8080/daniel/daniel/22247
-#EXTINF:-1 tvg-ID="osjeckatv.hr" tvg-name="CRO: Osjecka" tvg-logo="[" group-title="Live: EX-Yu",CRO: Osjecka
-http://admin-mainpanel.club:8080/daniel/daniel/23707
-#EXTINF:-1 tvg-ID="sbtv.hr" tvg-name="CRO: SB TV" tvg-logo="" group-title="Live: EX-Yu",CRO: SB TV
-http://admin-mainpanel.club:8080/daniel/daniel/23696
-#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Arena Sport 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2505
-#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Arena Sport 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2503
-#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Arena Sport 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2501
-#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Arena Sport 4 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2499
-#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Arena Sport 5 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2497
-#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: Arena Sport 6 HD
-http://admin-mainpanel.club:8080/daniel/daniel/13586
-#EXTINF:-1 tvg-ID="sportklub1.hr" tvg-name="CRO: SPORT KLUB 1 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: SPORT KLUB 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2494
-#EXTINF:-1 tvg-ID="sportklub2.hr" tvg-name="CRO: SPORT KLUB 2 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: SPORT KLUB 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2493
-#EXTINF:-1 tvg-ID="sportklub3.hr" tvg-name="CRO: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: SPORT KLUB 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2492
-#EXTINF:-1 tvg-ID="sportklub4.hr" tvg-name="CRO: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: SPORT KLUB 4 HD
-http://admin-mainpanel.club:8080/daniel/daniel/5345
-#EXTINF:-1 tvg-ID="sportklub5.hr" tvg-name="CRO: SPORT KLUB 5 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: SPORT KLUB 5 HD
-http://admin-mainpanel.club:8080/daniel/daniel/5344
-#EXTINF:-1 tvg-ID="sportklub6.hr" tvg-name="CRO: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: EX-Yu",CRO: SPORT KLUB 6 HD
-http://admin-mainpanel.club:8080/daniel/daniel/5343
-#EXTINF:-1 tvg-ID="tlc.rs" tvg-name="CRO: TLC" tvg-logo="" group-title="Live: EX-Yu",CRO: TLC
-http://admin-mainpanel.club:8080/daniel/daniel/23694
-#EXTINF:-1 tvg-ID="travelchannel.hr" tvg-name="CRO: Travel Channel" tvg-logo="[" group-title="Live: EX-Yu",CRO: Travel Channel
-http://admin-mainpanel.club:8080/daniel/daniel/23656
-#EXTINF:-1 tvg-ID="" tvg-name="CRO: Trend TV Karlovac" tvg-logo="" group-title="Live: EX-Yu",CRO: Trend TV Karlovac
-http://admin-mainpanel.club:8080/daniel/daniel/23706
-#EXTINF:-1 tvg-ID="tv1000.hr" tvg-name="CRO: TV 1000" tvg-logo="" group-title="Live: EX-Yu",CRO: TV 1000
-http://admin-mainpanel.club:8080/daniel/daniel/13597
-#EXTINF:-1 tvg-ID="viasatexplore.hr" tvg-name="CRO: Viasat Explorer" tvg-logo="[" group-title="Live: EX-Yu",CRO: Viasat Explorer
-http://admin-mainpanel.club:8080/daniel/daniel/23655
-#EXTINF:-1 tvg-ID="viasathistory.hr" tvg-name="CRO: Viasat History" tvg-logo="[" group-title="Live: EX-Yu",CRO: Viasat History
-http://admin-mainpanel.club:8080/daniel/daniel/23654
-#EXTINF:-1 tvg-ID="viasatnature.hr" tvg-name="CRO: Viasat Nature" tvg-logo="[" group-title="Live: EX-Yu",CRO: Viasat Nature
-http://admin-mainpanel.club:8080/daniel/daniel/23653
-#EXTINF:-1 tvg-ID="vinkovackatv.hr" tvg-name="CRO: Vinkovacka TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Vinkovacka TV
-http://admin-mainpanel.club:8080/daniel/daniel/23701
-#EXTINF:-1 tvg-ID="amc.hr" tvg-name="CRO: AMC" tvg-logo="[" group-title="Live: EX-Yu",CRO: AMC
-http://admin-mainpanel.club:8080/daniel/daniel/23684
-#EXTINF:-1 tvg-ID="animalplanet.hr" tvg-name="CRO: Animal Planet" tvg-logo="[" group-title="Live: EX-Yu",CRO: Animal Planet
-http://admin-mainpanel.club:8080/daniel/daniel/23668
-#EXTINF:-1 tvg-ID="axn.rs" tvg-name="CRO: AXN Adria" tvg-logo="[" group-title="Live: EX-Yu",CRO: AXN Adria
-http://admin-mainpanel.club:8080/daniel/daniel/23692
-#EXTINF:-1 tvg-ID="tvjadran.hr" tvg-name="CRO: Jadran TV" tvg-logo="" group-title="Live: EX-Yu",CRO: Jadran TV
-http://admin-mainpanel.club:8080/daniel/daniel/23698
-#EXTINF:-1 tvg-ID="axnspin.rs" tvg-name="CRO: AXN Spin" tvg-logo="[" group-title="Live: EX-Yu",CRO: AXN Spin
-http://admin-mainpanel.club:8080/daniel/daniel/23691
-#EXTINF:-1 tvg-ID="slavonskatv.hr" tvg-name="CRO: Slavonska TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Slavonska TV
-http://admin-mainpanel.club:8080/daniel/daniel/23708
-#EXTINF:-1 tvg-ID="tvistra.hr" tvg-name="CRO: TV Istra" tvg-logo="" group-title="Live: EX-Yu",CRO: TV Istra
-http://admin-mainpanel.club:8080/daniel/daniel/23709
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: TV Banovina" tvg-logo="[" group-title="Live: EX-Yu",CRO: TV Banovina
-http://admin-mainpanel.club:8080/daniel/daniel/23710
-#EXTINF:-1 tvg-ID="varazdinskatelevizija.hr" tvg-name="CRO: VTV Varazdin" tvg-logo="" group-title="Live: EX-Yu",CRO: VTV Varazdin
-http://admin-mainpanel.club:8080/daniel/daniel/23705
-#EXTINF:-1 tvg-ID="24kitchen.rs" tvg-name="CRO: 24 Kitchen" tvg-logo="[" group-title="Live: EX-Yu",CRO: 24 Kitchen
-http://admin-mainpanel.club:8080/daniel/daniel/23669
-#EXTINF:-1 tvg-ID="z1.hr" tvg-name="CRO: Z1 HD" tvg-logo="" group-title="Live: EX-Yu",CRO: Z1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/20607
-#EXTINF:-1 tvg-ID="zdravatv.hr" tvg-name="CRO: Zdrava TV" tvg-logo="[" group-title="Live: EX-Yu",CRO: Zdrava TV
-http://admin-mainpanel.club:8080/daniel/daniel/23700
-#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Mreza Zagreb" tvg-logo="" group-title="Live: EX-Yu",CRO: Mreza Zagreb
-http://admin-mainpanel.club:8080/daniel/daniel/43570
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTS HD" tvg-logo="" group-title="Live: EX-Yu",RS: RTS HD
-http://admin-mainpanel.club:8080/daniel/daniel/9119
-#EXTINF:-1 tvg-ID="rts1.rs" tvg-name="RS: RTS 1" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 1
-http://admin-mainpanel.club:8080/daniel/daniel/1037
-#EXTINF:-1 tvg-ID="rts2.rs" tvg-name="RS: RTS 2" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 2
-http://admin-mainpanel.club:8080/daniel/daniel/1038
-#EXTINF:-1 tvg-ID="rts3.rs" tvg-name="RS: RTS 3" tvg-logo="" group-title="Live: EX-Yu",RS: RTS 3
-http://admin-mainpanel.club:8080/daniel/daniel/7025
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: B92" tvg-logo="" group-title="Live: EX-Yu",RS: B92
-http://admin-mainpanel.club:8080/daniel/daniel/7043
-#EXTINF:-1 tvg-ID="prva.rs" tvg-name="RS: Prva TV" tvg-logo="" group-title="Live: EX-Yu",RS: Prva TV
-http://admin-mainpanel.club:8080/daniel/daniel/7032
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Animal Planet" tvg-logo="" group-title="Live: EX-Yu",RS: Animal Planet
-http://admin-mainpanel.club:8080/daniel/daniel/7899
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: ANP" tvg-logo="[" group-title="Live: EX-Yu",RS: ANP
-http://admin-mainpanel.club:8080/daniel/daniel/13534
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Nick Jr." tvg-logo="[""]" group-title="Live: EX-Yu",RS: Nick Jr.
-http://admin-mainpanel.club:8080/daniel/daniel/13549
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Nickelodeon" tvg-logo="" group-title="Live: EX-Yu",RS: Nickelodeon
-http://admin-mainpanel.club:8080/daniel/daniel/13547
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Kids
-http://admin-mainpanel.club:8080/daniel/daniel/13553
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Baby TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Baby TV
-http://admin-mainpanel.club:8080/daniel/daniel/13546
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Balkanika" tvg-logo="" group-title="Live: EX-Yu",RS: Balkanika
-http://admin-mainpanel.club:8080/daniel/daniel/7041
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mini TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Mini TV
-http://admin-mainpanel.club:8080/daniel/daniel/13544
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mini Ultra TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Mini Ultra TV
-http://admin-mainpanel.club:8080/daniel/daniel/23613
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Belle Amie" tvg-logo="[" group-title="Live: EX-Yu",RS: Belle Amie
-http://admin-mainpanel.club:8080/daniel/daniel/23623
-#EXTINF:-1 tvg-ID="BN.bn" tvg-name="RS: BN BIH" tvg-logo="" group-title="Live: EX-Yu",RS: BN BIH
-http://admin-mainpanel.club:8080/daniel/daniel/1032
-#EXTINF:-1 tvg-ID="" tvg-name="RS: BN Music" tvg-logo="" group-title="Live: EX-Yu",RS: BN Music
-http://admin-mainpanel.club:8080/daniel/daniel/7731
-#EXTINF:-1 tvg-ID="dmsat.rs" tvg-name="RS: DM SAT" tvg-logo="" group-title="Live: EX-Yu",RS: DM SAT
-http://admin-mainpanel.club:8080/daniel/daniel/7040
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Grand 2" tvg-logo="[" group-title="Live: EX-Yu",RS: Grand 2
-http://admin-mainpanel.club:8080/daniel/daniel/9120
-#EXTINF:-1 tvg-ID="grand.rs" tvg-name="RS: Grand TV" tvg-logo="" group-title="Live: EX-Yu",RS: Grand TV
-http://admin-mainpanel.club:8080/daniel/daniel/7037
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Boomerang" tvg-logo="[" group-title="Live: EX-Yu",RS: Boomerang
-http://admin-mainpanel.club:8080/daniel/daniel/13548
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Discovery Channel" tvg-logo="" group-title="Live: EX-Yu",RS: Discovery Channel
-http://admin-mainpanel.club:8080/daniel/daniel/7900
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Discovery Xtra" tvg-logo="[" group-title="Live: EX-Yu",RS: Discovery Xtra
-http://admin-mainpanel.club:8080/daniel/daniel/13543
-#EXTINF:-1 tvg-ID="dutv.hr" tvg-name="RS: Duga TV" tvg-logo="" group-title="Live: EX-Yu",RS: Duga TV
-http://admin-mainpanel.club:8080/daniel/daniel/7039
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: E!" tvg-logo="[" group-title="Live: EX-Yu",RS: E!
-http://admin-mainpanel.club:8080/daniel/daniel/13531
-#EXTINF:-1 tvg-ID="" tvg-name="RS: CINEMANIA" tvg-logo="" group-title="Live: EX-Yu",RS: CINEMANIA
-http://admin-mainpanel.club:8080/daniel/daniel/23603
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Comedy Central Extra" tvg-logo="[" group-title="Live: EX-Yu",RS: Comedy Central Extra
-http://admin-mainpanel.club:8080/daniel/daniel/13532
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: CRIME & INVESTIGATION" tvg-logo="[" group-title="Live: EX-Yu",RS: CRIME & INVESTIGATION
-http://admin-mainpanel.club:8080/daniel/daniel/13535
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Film Klub" tvg-logo="[" group-title="Live: EX-Yu",RS: Film Klub
-http://admin-mainpanel.club:8080/daniel/daniel/21417
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Film Klub Extra" tvg-logo="" group-title="Live: EX-Yu",RS: Film Klub Extra
-http://admin-mainpanel.club:8080/daniel/daniel/23614
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Filmbox Extra" tvg-logo="" group-title="Live: EX-Yu",RS: Filmbox Extra
-http://admin-mainpanel.club:8080/daniel/daniel/21416
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Filmbox Plus" tvg-logo="[" group-title="Live: EX-Yu",RS: Filmbox Plus
-http://admin-mainpanel.club:8080/daniel/daniel/21415
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Food Network" tvg-logo="[" group-title="Live: EX-Yu",RS: Food Network
-http://admin-mainpanel.club:8080/daniel/daniel/13542
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTV BOGJUNO" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV BOGJUNO
-http://admin-mainpanel.club:8080/daniel/daniel/23621
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: HAPPY PAROVI" tvg-logo="[" group-title="Live: EX-Yu",RS: HAPPY PAROVI
-http://admin-mainpanel.club:8080/daniel/daniel/23596
-#EXTINF:-1 tvg-ID="happytv.rs" tvg-name="RS: Happy TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Happy TV
-http://admin-mainpanel.club:8080/daniel/daniel/7036
-#EXTINF:-1 tvg-ID="" tvg-name="RS: HBO Adria" tvg-logo="" group-title="Live: EX-Yu",RS: HBO Adria
-http://admin-mainpanel.club:8080/daniel/daniel/7736
-#EXTINF:-1 tvg-ID="" tvg-name="RS: History 2" tvg-logo="[""]" group-title="Live: EX-Yu",RS: History 2
-http://admin-mainpanel.club:8080/daniel/daniel/13541
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: History Channel" tvg-logo="" group-title="Live: EX-Yu",RS: History Channel
-http://admin-mainpanel.club:8080/daniel/daniel/7901
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: HNTV" tvg-logo="[" group-title="Live: EX-Yu",RS: HNTV
-http://admin-mainpanel.club:8080/daniel/daniel/13589
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: IDJ TV" tvg-logo="" group-title="Live: EX-Yu",RS: IDJ TV
-http://admin-mainpanel.club:8080/daniel/daniel/14152
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Izvorna TV" tvg-logo="" group-title="Live: EX-Yu",RS: Izvorna TV
-http://admin-mainpanel.club:8080/daniel/daniel/7897
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Jefimija TV" tvg-logo="" group-title="Live: EX-Yu",RS: Jefimija TV
-http://admin-mainpanel.club:8080/daniel/daniel/23605
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Jugotov TV" tvg-logo="" group-title="Live: EX-Yu",RS: Jugotov TV
-http://admin-mainpanel.club:8080/daniel/daniel/7896
-#EXTINF:-1 tvg-ID="kanal6.ba" tvg-name="RS: Kanal 6 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: Kanal 6 HD
-http://admin-mainpanel.club:8080/daniel/daniel/7038
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 1" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 1
-http://admin-mainpanel.club:8080/daniel/daniel/21285
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 2" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 2
-http://admin-mainpanel.club:8080/daniel/daniel/21286
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: KCN 3" tvg-logo="" group-title="Live: EX-Yu",RS: KCN 3
-http://admin-mainpanel.club:8080/daniel/daniel/21287
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Leskovac TV" tvg-logo="" group-title="Live: EX-Yu",RS: Leskovac TV
-http://admin-mainpanel.club:8080/daniel/daniel/23630
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mag TV" tvg-logo="" group-title="Live: EX-Yu",RS: Mag TV
-http://admin-mainpanel.club:8080/daniel/daniel/23633
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Minimax/Cinemania" tvg-logo="[" group-title="Live: EX-Yu",RS: Minimax/Cinemania
-http://admin-mainpanel.club:8080/daniel/daniel/13545
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: N1 SRBIJA" tvg-logo="[" group-title="Live: EX-Yu",RS: N1 SRBIJA
-http://admin-mainpanel.club:8080/daniel/daniel/7893
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nasha TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Nasha TV
-http://admin-mainpanel.club:8080/daniel/daniel/23634
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nat Geo Wild HD" tvg-logo="" group-title="Live: EX-Yu",RS: Nat Geo Wild HD
-http://admin-mainpanel.club:8080/daniel/daniel/7902
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Live: EX-Yu",RS: NATIONAL GEOGRAPHIC
-http://admin-mainpanel.club:8080/daniel/daniel/7903
-#EXTINF:-1 tvg-ID="nova.rs" tvg-name="RS: Nova HD" tvg-logo="[" group-title="Live: EX-Yu",RS: Nova HD
-http://admin-mainpanel.club:8080/daniel/daniel/7034
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: O 2" tvg-logo="[" group-title="Live: EX-Yu",RS: O 2
-http://admin-mainpanel.club:8080/daniel/daniel/23597
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TV Istok" tvg-logo="" group-title="Live: EX-Yu",RS: TV Istok
-http://admin-mainpanel.club:8080/daniel/daniel/13537
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: OTV Valentino" tvg-logo="" group-title="Live: EX-Yu",RS: OTV Valentino
-http://admin-mainpanel.club:8080/daniel/daniel/7895
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SuperStar HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SuperStar HD
-http://admin-mainpanel.club:8080/daniel/daniel/13556
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Partizan TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Partizan TV
-http://admin-mainpanel.club:8080/daniel/daniel/13587
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pikaboo" tvg-logo="" group-title="Live: EX-Yu",RS: Pikaboo
-http://admin-mainpanel.club:8080/daniel/daniel/23635
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Podrinje TV" tvg-logo="" group-title="Live: EX-Yu",RS: Podrinje TV
-http://admin-mainpanel.club:8080/daniel/daniel/54592
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: PRVA KICK" tvg-logo="[" group-title="Live: EX-Yu",RS: PRVA KICK
-http://admin-mainpanel.club:8080/daniel/daniel/23599
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva MAX" tvg-logo="[" group-title="Live: EX-Yu",RS: Prva MAX
-http://admin-mainpanel.club:8080/daniel/daniel/13557
-#EXTINF:-1 tvg-ID="prvaplus.rs" tvg-name="RS: Prva Plus" tvg-logo="" group-title="Live: EX-Yu",RS: Prva Plus
-http://admin-mainpanel.club:8080/daniel/daniel/7031
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva World" tvg-logo="[" group-title="Live: EX-Yu",RS: Prva World
-http://admin-mainpanel.club:8080/daniel/daniel/13558
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink HD" tvg-logo="" group-title="Live: EX-Yu",RS: Pink HD
-http://admin-mainpanel.club:8080/daniel/daniel/45383
-#EXTINF:-1 tvg-ID="pink1.rs" tvg-name="RS: Pink" tvg-logo="" group-title="Live: EX-Yu",RS: Pink
-http://admin-mainpanel.club:8080/daniel/daniel/473
-#EXTINF:-1 tvg-ID="pink2.rs" tvg-name="RS: Pink 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink 2
-http://admin-mainpanel.club:8080/daniel/daniel/472
-#EXTINF:-1 tvg-ID="pink3.rs" tvg-name="RS: Pink 3" tvg-logo="" group-title="Live: EX-Yu",RS: Pink 3
-http://admin-mainpanel.club:8080/daniel/daniel/468
-#EXTINF:-1 tvg-ID="pinkaction.rs" tvg-name="RS: Pink Action" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Action
-http://admin-mainpanel.club:8080/daniel/daniel/470
-#EXTINF:-1 tvg-ID="pinkbh.rs" tvg-name="RS: Pink BH" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink BH
-http://admin-mainpanel.club:8080/daniel/daniel/465
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Bravo" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Bravo
-http://admin-mainpanel.club:8080/daniel/daniel/42236
-#EXTINF:-1 tvg-ID="pinkclassic.rs" tvg-name="RS: Pink Classic" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Classic
-http://admin-mainpanel.club:8080/daniel/daniel/38350
-#EXTINF:-1 tvg-ID="pinkcomedy.rs" tvg-name="RS: Pink Comedy" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Comedy
-http://admin-mainpanel.club:8080/daniel/daniel/471
-#EXTINF:-1 tvg-ID="pinkcrimeandmystery.rs" tvg-name="RS: Pink Crime & Mystery" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Crime & Mystery
-http://admin-mainpanel.club:8080/daniel/daniel/7911
-#EXTINF:-1 tvg-ID="pinkextra.rs" tvg-name="RS: Pink Extra" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Extra
-http://admin-mainpanel.club:8080/daniel/daniel/7914
-#EXTINF:-1 tvg-ID="pinkfamily.rs" tvg-name="RS: Pink Family" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Family
-http://admin-mainpanel.club:8080/daniel/daniel/38351
-#EXTINF:-1 tvg-ID="pinkfashion.rs" tvg-name="RS: Pink Fashion" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Fashion
-http://admin-mainpanel.club:8080/daniel/daniel/42239
-#EXTINF:-1 tvg-ID="pinkfilm.rs" tvg-name="RS: Pink Film" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Film
-http://admin-mainpanel.club:8080/daniel/daniel/469
-#EXTINF:-1 tvg-ID="pinkfolk1.rs" tvg-name="RS: Pink Folk 1" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Folk 1
-http://admin-mainpanel.club:8080/daniel/daniel/7906
-#EXTINF:-1 tvg-ID="pinkfolk2.rs" tvg-name="RS: Pink Folk 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Folk 2
-http://admin-mainpanel.club:8080/daniel/daniel/7907
-#EXTINF:-1 tvg-ID="pinkhaha.rs" tvg-name="RS: Pink HAHA" tvg-logo="" group-title="Live: EX-Yu",RS: Pink HAHA
-http://admin-mainpanel.club:8080/daniel/daniel/38352
-#EXTINF:-1 tvg-ID="pinkhits.rs" tvg-name="RS: Pink Hits" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Hits
-http://admin-mainpanel.club:8080/daniel/daniel/42238
-#EXTINF:-1 tvg-ID="pinkhits2.rs" tvg-name="RS: Pink Hits 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Hits 2
-http://admin-mainpanel.club:8080/daniel/daniel/38356
-#EXTINF:-1 tvg-ID="pinkhorror.rs" tvg-name="RS: Pink Horror" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Horror
-http://admin-mainpanel.club:8080/daniel/daniel/467
-#EXTINF:-1 tvg-ID="pinkkids.rs" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Kids
-http://admin-mainpanel.club:8080/daniel/daniel/7909
-#EXTINF:-1 tvg-ID="pinkkoncert.rs" tvg-name="RS: Pink Koncert" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Koncert
-http://admin-mainpanel.club:8080/daniel/daniel/38355
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Kuvar" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Kuvar
-http://admin-mainpanel.club:8080/daniel/daniel/7913
-#EXTINF:-1 tvg-ID="pinklol.rs" tvg-name="RS: Pink LOL" tvg-logo="" group-title="Live: EX-Yu",RS: Pink LOL
-http://admin-mainpanel.club:8080/daniel/daniel/38353
-#EXTINF:-1 tvg-ID="pinkmovies.rs" tvg-name="RS: Pink Movies" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Movies
-http://admin-mainpanel.club:8080/daniel/daniel/7910
-#EXTINF:-1 tvg-ID="pinkmusic.rs" tvg-name="RS: Pink Music" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Music
-http://admin-mainpanel.club:8080/daniel/daniel/7905
-#EXTINF:-1 tvg-ID="pinkmusic2.rs" tvg-name="RS: Pink Music 2" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Music 2
-http://admin-mainpanel.club:8080/daniel/daniel/42240
-#EXTINF:-1 tvg-ID="pinkpedia.rs" tvg-name="RS: Pink Pedia" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Pedia
-http://admin-mainpanel.club:8080/daniel/daniel/466
-#EXTINF:-1 tvg-ID="pinkplus.rs" tvg-name="RS: Pink Plus" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Plus
-http://admin-mainpanel.club:8080/daniel/daniel/7908
-#EXTINF:-1 tvg-ID="pinkpremium.rs" tvg-name="RS: Pink Premium" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Premium
-http://admin-mainpanel.club:8080/daniel/daniel/464
-#EXTINF:-1 tvg-ID="pinkreality.rs" tvg-name="RS: Pink Reality" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Reality
-http://admin-mainpanel.club:8080/daniel/daniel/463
-#EXTINF:-1 tvg-ID="pinkromance.rs" tvg-name="RS: Pink Romance" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Romance
-http://admin-mainpanel.club:8080/daniel/daniel/462
-#EXTINF:-1 tvg-ID="pinkandroll.rs" tvg-name="RS: Pink & Roll" tvg-logo="" group-title="Live: EX-Yu",RS: Pink & Roll
-http://admin-mainpanel.club:8080/daniel/daniel/42237
-#EXTINF:-1 tvg-ID="pinkscifiandfantasy.rs" tvg-name="RS: Pink Sci-FI & Fantasy" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Sci-FI & Fantasy
-http://admin-mainpanel.club:8080/daniel/daniel/7912
-#EXTINF:-1 tvg-ID="pinkserije.rs" tvg-name="RS: Pink Serije" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Serije
-http://admin-mainpanel.club:8080/daniel/daniel/7506
-#EXTINF:-1 tvg-ID="pinkshow.rs" tvg-name="RS: Pink Show" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Show
-http://admin-mainpanel.club:8080/daniel/daniel/35700
-#EXTINF:-1 tvg-ID="pinksoap.rs" tvg-name="RS: Pink Soap" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Soap
-http://admin-mainpanel.club:8080/daniel/daniel/461
-#EXTINF:-1 tvg-ID="pinkstyle.rs" tvg-name="RS: Pink Style" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Style
-http://admin-mainpanel.club:8080/daniel/daniel/38354
-#EXTINF:-1 tvg-ID="pinkthriller.rs" tvg-name="RS: Pink Thriller" tvg-logo="[" group-title="Live: EX-Yu",RS: Pink Thriller
-http://admin-mainpanel.club:8080/daniel/daniel/460
-#EXTINF:-1 tvg-ID="pinkwestern.rs" tvg-name="RS: Pink Western" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Western
-http://admin-mainpanel.club:8080/daniel/daniel/459
-#EXTINF:-1 tvg-ID="pinkworld.rs" tvg-name="RS: Pink World" tvg-logo="" group-title="Live: EX-Yu",RS: Pink World
-http://admin-mainpanel.club:8080/daniel/daniel/458
-#EXTINF:-1 tvg-ID="pinkworldcinema.rs" tvg-name="RS: Pink World Cinema" tvg-logo="" group-title="Live: EX-Yu",RS: Pink World Cinema
-http://admin-mainpanel.club:8080/daniel/daniel/7915
-#EXTINF:-1 tvg-ID="pinkzabava.rs" tvg-name="RS: Pink Zabava" tvg-logo="" group-title="Live: EX-Yu",RS: Pink Zabava
-http://admin-mainpanel.club:8080/daniel/daniel/457
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Roma TV" tvg-logo="[""]" group-title="Live: EX-Yu",RS: Roma TV
-http://admin-mainpanel.club:8080/daniel/daniel/23619
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTL Kockica" tvg-logo="[""]" group-title="Live: EX-Yu",RS: RTL Kockica
-http://admin-mainpanel.club:8080/daniel/daniel/13554
-#EXTINF:-1 tvg-ID="rtrs.ba" tvg-name="RS: RTRS" tvg-logo="" group-title="Live: EX-Yu",RS: RTRS
-http://admin-mainpanel.club:8080/daniel/daniel/7030
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTS Drama" tvg-logo="[""]" group-title="Live: EX-Yu",RS: RTS Drama
-http://admin-mainpanel.club:8080/daniel/daniel/23627
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTS Muzika" tvg-logo="[""]" group-title="Live: EX-Yu",RS: RTS Muzika
-http://admin-mainpanel.club:8080/daniel/daniel/23626
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTS Svet" tvg-logo="" group-title="Live: EX-Yu",RS: RTS Svet
-http://admin-mainpanel.club:8080/daniel/daniel/23636
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTS Trezor" tvg-logo="[""]" group-title="Live: EX-Yu",RS: RTS Trezor
-http://admin-mainpanel.club:8080/daniel/daniel/23625
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTS Zivot" tvg-logo="" group-title="Live: EX-Yu",RS: RTS Zivot
-http://admin-mainpanel.club:8080/daniel/daniel/23624
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTV SLON" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV SLON
-http://admin-mainpanel.club:8080/daniel/daniel/23604
-#EXTINF:-1 tvg-ID="sportklub4k.rs" tvg-name="RS: SK HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SK HD
-http://admin-mainpanel.club:8080/daniel/daniel/7033
-#EXTINF:-1 tvg-ID="sos.rs" tvg-name="RS: SOS Kanal" tvg-logo="" group-title="Live: EX-Yu",RS: SOS Kanal
-http://admin-mainpanel.club:8080/daniel/daniel/7028
-#EXTINF:-1 tvg-ID="arenasport1.rs" tvg-name="RS: Arena Sport 1 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2504
-#EXTINF:-1 tvg-ID="arenasport2.rs" tvg-name="RS: Arena Sport 2 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2502
-#EXTINF:-1 tvg-ID="arenasport3.rs" tvg-name="RS: Arena Sport 3 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2500
-#EXTINF:-1 tvg-ID="arenasport4.rs" tvg-name="RS: Arena Sport 4 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 4 HD
-http://admin-mainpanel.club:8080/daniel/daniel/2498
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Arena Sport 5 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 5 HD
-http://admin-mainpanel.club:8080/daniel/daniel/13590
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 1 HD" tvg-logo="[]" group-title="Live: EX-Yu",RS: SPORT KLUB 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/7735
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 2 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/7734
-#EXTINF:-1 tvg-ID="" tvg-name="RS: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: EX-Yu",RS: SPORT KLUB 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/7733
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 4 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23610
-#EXTINF:-1 tvg-ID="" tvg-name="RS: SPORT KLUB 5 HD" tvg-logo="" group-title="Live: EX-Yu",RS: SPORT KLUB 5 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23609
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 6 HD
-http://admin-mainpanel.club:8080/daniel/daniel/23608
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB Golf" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB Golf
-http://admin-mainpanel.club:8080/daniel/daniel/23607
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Eurosport 1" tvg-logo="" group-title="Live: EX-Yu",RS: Eurosport 1
-http://admin-mainpanel.club:8080/daniel/daniel/23612
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Eurosport 2" tvg-logo="" group-title="Live: EX-Yu",RS: Eurosport 2
-http://admin-mainpanel.club:8080/daniel/daniel/23611
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Sportska TV" tvg-logo="[""]" group-title="Live: EX-Yu",RS: Sportska TV
-http://admin-mainpanel.club:8080/daniel/daniel/13588
-#EXTINF:-1 tvg-ID="loviribolov.rs" tvg-name="RS: Lov and Ribolov" tvg-logo="" group-title="Live: EX-Yu",RS: Lov and Ribolov
-http://admin-mainpanel.club:8080/daniel/daniel/7035
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nautical TV" tvg-logo="" group-title="Live: EX-Yu",RS: Nautical TV
-http://admin-mainpanel.club:8080/daniel/daniel/23622
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: STUDIO B" tvg-logo="[" group-title="Live: EX-Yu",RS: STUDIO B
-http://admin-mainpanel.club:8080/daniel/daniel/23595
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SuperKids" tvg-logo="[" group-title="Live: EX-Yu",RS: SuperKids
-http://admin-mainpanel.club:8080/daniel/daniel/13552
-#EXTINF:-1 tvg-ID="rtrsplus.ba" tvg-name="RS: RTRS Plus" tvg-logo="[" group-title="Live: EX-Yu",RS: RTRS Plus
-http://admin-mainpanel.club:8080/daniel/daniel/13575
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TLC  Discovery" tvg-logo="[" group-title="Live: EX-Yu",RS: TLC  Discovery
-http://admin-mainpanel.club:8080/daniel/daniel/13533
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Top Sound" tvg-logo="[""]" group-title="Live: EX-Yu",RS: Top Sound
-http://admin-mainpanel.club:8080/daniel/daniel/23618
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TOP TV" tvg-logo="[" group-title="Live: EX-Yu",RS: TOP TV
-http://admin-mainpanel.club:8080/daniel/daniel/23598
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Travel Channel" tvg-logo="[" group-title="Live: EX-Yu",RS: Travel Channel
-http://admin-mainpanel.club:8080/daniel/daniel/13538
-#EXTINF:-1 tvg-ID="domatv.hr" tvg-name="RS: TV Doma" tvg-logo="" group-title="Live: EX-Yu",RS: TV Doma
-http://admin-mainpanel.club:8080/daniel/daniel/7026
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TV Hram" tvg-logo="[" group-title="Live: EX-Yu",RS: TV Hram
-http://admin-mainpanel.club:8080/daniel/daniel/23615
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Ultra" tvg-logo="[" group-title="Live: EX-Yu",RS: Ultra
-http://admin-mainpanel.club:8080/daniel/daniel/13550
-#EXTINF:-1 tvg-ID="" tvg-name="RS: USK BH" tvg-logo="" group-title="Live: EX-Yu",RS: USK BH
-http://admin-mainpanel.club:8080/daniel/daniel/7042
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Vavoom" tvg-logo="[""]" group-title="Live: EX-Yu",RS: Vavoom
-http://admin-mainpanel.club:8080/daniel/daniel/23600
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Viasat History" tvg-logo="[""]" group-title="Live: EX-Yu",RS: Viasat History
-http://admin-mainpanel.club:8080/daniel/daniel/13539
-#EXTINF:-1 tvg-ID="" tvg-name="RS: VIASAT Nature" tvg-logo="[""]" group-title="Live: EX-Yu",RS: VIASAT Nature
-http://admin-mainpanel.club:8080/daniel/daniel/13540
-#EXTINF:-1 tvg-ID="" tvg-name="RS: Viassat Explorer" tvg-logo="[""]" group-title="Live: EX-Yu",RS: Viassat Explorer
-http://admin-mainpanel.club:8080/daniel/daniel/13536
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RED TV" tvg-logo="" group-title="Live: EX-Yu",RS: RED TV
-http://admin-mainpanel.club:8080/daniel/daniel/23617
-#EXTINF:-1 tvg-ID="" tvg-name="RS: 24 Kitchen" tvg-logo="" group-title="Live: EX-Yu",RS: 24 Kitchen
-http://admin-mainpanel.club:8080/daniel/daniel/7904
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: A TV" tvg-logo="[" group-title="Live: EX-Yu",RS: A TV
-http://admin-mainpanel.club:8080/daniel/daniel/7044
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Istra TV" tvg-logo="" group-title="Live: EX-Yu",RS: Istra TV
-http://admin-mainpanel.club:8080/daniel/daniel/13555
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TV Kladovo" tvg-logo="" group-title="Live: EX-Yu",RS: TV Kladovo
-http://admin-mainpanel.club:8080/daniel/daniel/23616
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TV Sarajevo" tvg-logo="" group-title="Live: EX-Yu",RS: TV Sarajevo
-http://admin-mainpanel.club:8080/daniel/daniel/7892
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Banovina TV" tvg-logo="" group-title="Live: EX-Yu",RS: Banovina TV
-http://admin-mainpanel.club:8080/daniel/daniel/7898
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTV VISOKO" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV VISOKO
-http://admin-mainpanel.club:8080/daniel/daniel/23620
-#EXTINF:-1 tvg-ID="rtvnovipazar.rs" tvg-name="RS: RTV Novi Pazar" tvg-logo="" group-title="Live: EX-Yu",RS: RTV Novi Pazar
-http://admin-mainpanel.club:8080/daniel/daniel/7029
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTV Vojvodina 1" tvg-logo="[""]" group-title="Live: EX-Yu",RS: RTV Vojvodina 1
-http://admin-mainpanel.club:8080/daniel/daniel/23632
-#EXTINF:-1 tvg-ID="" tvg-name="RS: RTV Vojvodina 2" tvg-logo="[""]" group-title="Live: EX-Yu",RS: RTV Vojvodina 2
-http://admin-mainpanel.club:8080/daniel/daniel/23631
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Yu Planet TV" tvg-logo="[" group-title="Live: EX-Yu",RS: Yu Planet TV
-http://admin-mainpanel.club:8080/daniel/daniel/23601
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Zvezda" tvg-logo="" group-title="Live: EX-Yu",RS: Zvezda
-http://admin-mainpanel.club:8080/daniel/daniel/41488
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Zadruga Live" tvg-logo="[" group-title="Live: EX-Yu",RS: Zadruga Live
-http://admin-mainpanel.club:8080/daniel/daniel/31448
-#EXTINF:-1 tvg-ID="bht1.ba" tvg-name="BH: BHT HD" tvg-logo="" group-title="Live: EX-Yu",BH: BHT HD
-http://admin-mainpanel.club:8080/daniel/daniel/1029
-#EXTINF:-1 tvg-ID="obn.ba" tvg-name="BH: OBN" tvg-logo="" group-title="Live: EX-Yu",BH: OBN
-http://admin-mainpanel.club:8080/daniel/daniel/7732
-#EXTINF:-1 tvg-ID="facetv.ba" tvg-name="BH: FACE TV" tvg-logo="" group-title="Live: EX-Yu",BH: FACE TV
-http://admin-mainpanel.club:8080/daniel/daniel/1031
-#EXTINF:-1 tvg-ID="ftv.ba" tvg-name="BH: FTV" tvg-logo="" group-title="Live: EX-Yu",BH: FTV
-http://admin-mainpanel.club:8080/daniel/daniel/7891
-#EXTINF:-1 tvg-ID="tv1.ba" tvg-name="BH: O Kanal HD" tvg-logo="[" group-title="Live: EX-Yu",BH: O Kanal HD
-http://admin-mainpanel.club:8080/daniel/daniel/13582
-#EXTINF:-1 tvg-ID="hayat.ba" tvg-name="BH: HAYAT HD" tvg-logo="" group-title="Live: EX-Yu",BH: HAYAT HD
-http://admin-mainpanel.club:8080/daniel/daniel/1030
-#EXTINF:-1 tvg-ID="" tvg-name="BH: HAYAT Plus" tvg-logo="[""]" group-title="Live: EX-Yu",BH: HAYAT Plus
-http://admin-mainpanel.club:8080/daniel/daniel/31313
-#EXTINF:-1 tvg-ID="hayatovci.ba" tvg-name="BH: HAYATOVCI" tvg-logo="[" group-title="Live: EX-Yu",BH: HAYATOVCI
-http://admin-mainpanel.club:8080/daniel/daniel/13551
-#EXTINF:-1 tvg-ID="hayatmusic.ba" tvg-name="BH: HAYAT Music" tvg-logo="" group-title="Live: EX-Yu",BH: HAYAT Music
-http://admin-mainpanel.club:8080/daniel/daniel/17994
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Hayat Folk" tvg-logo="" group-title="Live: EX-Yu",BH: Hayat Folk
-http://admin-mainpanel.club:8080/daniel/daniel/7894
-#EXTINF:-1 tvg-ID="aljazeerabalkans.ba" tvg-name="BH: Aljazeera Balkan HD" tvg-logo="[" group-title="Live: EX-Yu",BH: Aljazeera Balkan HD
-http://admin-mainpanel.club:8080/daniel/daniel/10064
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: BHTV" tvg-logo="" group-title="Live: EX-Yu",BH: BHTV
-http://admin-mainpanel.club:8080/daniel/daniel/56556
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: ALTERNATIVA" tvg-logo="" group-title="Live: EX-Yu",BH: ALTERNATIVA
-http://admin-mainpanel.club:8080/daniel/daniel/13562
-#EXTINF:-1 tvg-ID="tvkiss.ba" tvg-name="BH: TK" tvg-logo="" group-title="Live: EX-Yu",BH: TK
-http://admin-mainpanel.club:8080/daniel/daniel/13559
-#EXTINF:-1 tvg-ID="valentinoetno.ba" tvg-name="BH: RTV VISOKO HD" tvg-logo="" group-title="Live: EX-Yu",BH: RTV VISOKO HD
-http://admin-mainpanel.club:8080/daniel/daniel/13560
-#EXTINF:-1 tvg-ID="alfa.ba" tvg-name="BH: Alfa Tv Sarajevo" tvg-logo="[" group-title="Live: EX-Yu",BH: Alfa Tv Sarajevo
-http://admin-mainpanel.club:8080/daniel/daniel/13579
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Moja Sport HD" tvg-logo="[" group-title="Live: EX-Yu",BH: Moja Sport HD
-http://admin-mainpanel.club:8080/daniel/daniel/13581
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: ATV Banja Lika" tvg-logo="" group-title="Live: EX-Yu",BH: ATV Banja Lika
-http://admin-mainpanel.club:8080/daniel/daniel/23682
-#EXTINF:-1 tvg-ID="htvoscar.ba" tvg-name="BH: HIT TV" tvg-logo="" group-title="Live: EX-Yu",BH: HIT TV
-http://admin-mainpanel.club:8080/daniel/daniel/13563
-#EXTINF:-1 tvg-ID="citytv.ba" tvg-name="BH: City TV" tvg-logo="" group-title="Live: EX-Yu",BH: City TV
-http://admin-mainpanel.club:8080/daniel/daniel/13567
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: HB TV" tvg-logo="" group-title="Live: EX-Yu",BH: HB TV
-http://admin-mainpanel.club:8080/daniel/daniel/13572
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Hema TV" tvg-logo="[" group-title="Live: EX-Yu",BH: Hema TV
-http://admin-mainpanel.club:8080/daniel/daniel/13564
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: N1" tvg-logo="" group-title="Live: EX-Yu",BH: N1
-http://admin-mainpanel.club:8080/daniel/daniel/13576
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: K3" tvg-logo="[" group-title="Live: EX-Yu",BH: K3
-http://admin-mainpanel.club:8080/daniel/daniel/13578
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Kanal 5HD" tvg-logo="[" group-title="Live: EX-Yu",BH: Kanal 5HD
-http://admin-mainpanel.club:8080/daniel/daniel/13561
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Mir TV" tvg-logo="" group-title="Live: EX-Yu",BH: Mir TV
-http://admin-mainpanel.club:8080/daniel/daniel/13568
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Mreza+ BDC" tvg-logo="[" group-title="Live: EX-Yu",BH: Mreza+ BDC
-http://admin-mainpanel.club:8080/daniel/daniel/13566
-#EXTINF:-1 tvg-ID="" tvg-name="BH: BN TV" tvg-logo="" group-title="Live: EX-Yu",BH: BN TV
-http://admin-mainpanel.club:8080/daniel/daniel/49237
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Sevdah TV" tvg-logo="" group-title="Live: EX-Yu",BH: Sevdah TV
-http://admin-mainpanel.club:8080/daniel/daniel/49235
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Sehara TV" tvg-logo="" group-title="Live: EX-Yu",BH: Sehara TV
-http://admin-mainpanel.club:8080/daniel/daniel/49236
-#EXTINF:-1 tvg-ID="n1.ba" tvg-name="BH: N1 FHD" tvg-logo="" group-title="Live: EX-Yu",BH: N1 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26657
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: TVS" tvg-logo="" group-title="Live: EX-Yu",BH: TVS
-http://admin-mainpanel.club:8080/daniel/daniel/13569
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Nova BiH" tvg-logo="[" group-title="Live: EX-Yu",BH: Nova BiH
-http://admin-mainpanel.club:8080/daniel/daniel/26828
-#EXTINF:-1 tvg-ID="" tvg-name="BH: NTV 101 HD" tvg-logo="" group-title="Live: EX-Yu",BH: NTV 101 HD
-http://admin-mainpanel.club:8080/daniel/daniel/13570
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: NTV IC Kakanj" tvg-logo="[" group-title="Live: EX-Yu",BH: NTV IC Kakanj
-http://admin-mainpanel.club:8080/daniel/daniel/13571
-#EXTINF:-1 tvg-ID="rtvzenica.ba" tvg-name="BH: RTV Zenica" tvg-logo="[" group-title="Live: EX-Yu",BH: RTV Zenica
-http://admin-mainpanel.club:8080/daniel/daniel/13585
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Tv Kakanj" tvg-logo="[" group-title="Live: EX-Yu",BH: Tv Kakanj
-http://admin-mainpanel.club:8080/daniel/daniel/13583
-#EXTINF:-1 tvg-ID="tvsarajevo.ba" tvg-name="BH: TV Sarajevo" tvg-logo="" group-title="Live: EX-Yu",BH: TV Sarajevo
-http://admin-mainpanel.club:8080/daniel/daniel/13580
-#EXTINF:-1 tvg-ID="" tvg-name="BH: TV USK" tvg-logo="[""]" group-title="Live: EX-Yu",BH: TV USK
-http://admin-mainpanel.club:8080/daniel/daniel/13584
-#EXTINF:-1 tvg-ID="posavinatv.ba" tvg-name="BH: Posavina TV" tvg-logo="[" group-title="Live: EX-Yu",BH: Posavina TV
-http://admin-mainpanel.club:8080/daniel/daniel/31289
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Glas Drine" tvg-logo="" group-title="Live: EX-Yu",BH: Glas Drine
-http://admin-mainpanel.club:8080/daniel/daniel/35325
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Televizija 5HD" tvg-logo="" group-title="Live: EX-Yu",BH: Televizija 5HD
-http://admin-mainpanel.club:8080/daniel/daniel/38234
-#EXTINF:-1 tvg-ID="" tvg-name="BH: Islam Channel" tvg-logo="" group-title="Live: EX-Yu",BH: Islam Channel
-http://admin-mainpanel.club:8080/daniel/daniel/46335
-#EXTINF:-1 tvg-ID="" tvg-name="BH: Mekka" tvg-logo="" group-title="Live: EX-Yu",BH: Mekka
-http://admin-mainpanel.club:8080/daniel/daniel/46336
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Slon Extra HD" tvg-logo="" group-title="Live: EX-Yu",BH: Slon Extra HD
-http://admin-mainpanel.club:8080/daniel/daniel/31290
-#EXTINF:-1 tvg-ID="" tvg-name="BH: RTV Krajina" tvg-logo="" group-title="Live: EX-Yu",BH: RTV Krajina
-http://admin-mainpanel.club:8080/daniel/daniel/49635
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: 24 Vesti" tvg-logo="" group-title="Live: Macedonia",MK: 24 Vesti
-http://admin-mainpanel.club:8080/daniel/daniel/16307
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Alfa TV" tvg-logo="" group-title="Live: Macedonia",MK: Alfa TV
-http://admin-mainpanel.club:8080/daniel/daniel/10063
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Alsat" tvg-logo="" group-title="Live: Macedonia",MK: Alsat
-http://admin-mainpanel.club:8080/daniel/daniel/3804
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Animal Planet" tvg-logo="" group-title="Live: Macedonia",MK: Animal Planet
-http://admin-mainpanel.club:8080/daniel/daniel/42234
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Balkan Music" tvg-logo="" group-title="Live: Macedonia",MK: Balkan Music
-http://admin-mainpanel.club:8080/daniel/daniel/42212
-#EXTINF:-1 tvg-ID="" tvg-name="MK: CinePlex HD" tvg-logo="" group-title="Live: Macedonia",MK: CinePlex HD
-http://admin-mainpanel.club:8080/daniel/daniel/42213
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Cinestar TV Premiere 1" tvg-logo="" group-title="Live: Macedonia",MK: Cinestar TV Premiere 1
-http://admin-mainpanel.club:8080/daniel/daniel/42214
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Cinestar TV Premiere 2" tvg-logo="" group-title="Live: Macedonia",MK: Cinestar TV Premiere 2
-http://admin-mainpanel.club:8080/daniel/daniel/42215
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: EDO" tvg-logo="" group-title="Live: Macedonia",MK: EDO
-http://admin-mainpanel.club:8080/daniel/daniel/16300
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Film Box Plus" tvg-logo="" group-title="Live: Macedonia",MK: Film Box Plus
-http://admin-mainpanel.club:8080/daniel/daniel/42217
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Filmbox Extra FHD" tvg-logo="" group-title="Live: Macedonia",MK: Filmbox Extra FHD
-http://admin-mainpanel.club:8080/daniel/daniel/42216
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Folk" tvg-logo="" group-title="Live: Macedonia",MK: Folk
-http://admin-mainpanel.club:8080/daniel/daniel/42219
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Folk Klub" tvg-logo="" group-title="Live: Macedonia",MK: Folk Klub
-http://admin-mainpanel.club:8080/daniel/daniel/42218
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Fox" tvg-logo="" group-title="Live: Macedonia",MK: Fox
-http://admin-mainpanel.club:8080/daniel/daniel/42221
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Fox Life" tvg-logo="" group-title="Live: Macedonia",MK: Fox Life
-http://admin-mainpanel.club:8080/daniel/daniel/42220
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: HBO 2 HD MK" tvg-logo="" group-title="Live: Macedonia",MK: HBO 2 HD MK
-http://admin-mainpanel.club:8080/daniel/daniel/16295
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: HBO 3 HD MK" tvg-logo="" group-title="Live: Macedonia",MK: HBO 3 HD MK
-http://admin-mainpanel.club:8080/daniel/daniel/16294
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: HBO HD MK" tvg-logo="" group-title="Live: Macedonia",MK: HBO HD MK
-http://admin-mainpanel.club:8080/daniel/daniel/16296
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Hugo 2" tvg-logo="" group-title="Live: Macedonia",MK: Hugo 2
-http://admin-mainpanel.club:8080/daniel/daniel/16304
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Hugo Tv" tvg-logo="" group-title="Live: Macedonia",MK: Hugo Tv
-http://admin-mainpanel.club:8080/daniel/daniel/16308
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: INTV Avstralija" tvg-logo="" group-title="Live: Macedonia",MK: INTV Avstralija
-http://admin-mainpanel.club:8080/daniel/daniel/42223
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Iris TV Stip" tvg-logo="" group-title="Live: Macedonia",MK: Iris TV Stip
-http://admin-mainpanel.club:8080/daniel/daniel/42233
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Kafanska" tvg-logo="" group-title="Live: Macedonia",MK: Kafanska
-http://admin-mainpanel.club:8080/daniel/daniel/42224
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Kanal 5" tvg-logo="" group-title="Live: Macedonia",MK: Kanal 5
-http://admin-mainpanel.club:8080/daniel/daniel/15818
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Kanal+5" tvg-logo="" group-title="Live: Macedonia",MK: Kanal+5
-http://admin-mainpanel.club:8080/daniel/daniel/3803
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: KLAN HD" tvg-logo="" group-title="Live: Macedonia",MK: KLAN HD
-http://admin-mainpanel.club:8080/daniel/daniel/16297
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Leskovac TV" tvg-logo="" group-title="Live: Macedonia",MK: Leskovac TV
-http://admin-mainpanel.club:8080/daniel/daniel/16305
-#EXTINF:-1 tvg-ID="" tvg-name="MK: M1 Film" tvg-logo="" group-title="Live: Macedonia",MK: M1 Film
-http://admin-mainpanel.club:8080/daniel/daniel/42222
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Macedonian Documentary" tvg-logo="" group-title="Live: Macedonia",MK: Macedonian Documentary
-http://admin-mainpanel.club:8080/daniel/daniel/42235
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: MRT 3" tvg-logo="" group-title="Live: Macedonia",MK: MRT 3
-http://admin-mainpanel.club:8080/daniel/daniel/42225
-#EXTINF:-1 tvg-ID="" tvg-name="MK: MEGA BITOLA" tvg-logo="" group-title="Live: Macedonia",MK: MEGA BITOLA
-http://admin-mainpanel.club:8080/daniel/daniel/16303
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: MRT 1" tvg-logo="" group-title="Live: Macedonia",MK: MRT 1
-http://admin-mainpanel.club:8080/daniel/daniel/13591
-#EXTINF:-1 tvg-ID="" tvg-name="MK: MRT 2" tvg-logo="" group-title="Live: Macedonia",MK: MRT 2
-http://admin-mainpanel.club:8080/daniel/daniel/13592
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: MRT TV 1" tvg-logo="" group-title="Live: Macedonia",MK: MRT TV 1
-http://admin-mainpanel.club:8080/daniel/daniel/3802
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: MRT TV 2" tvg-logo="" group-title="Live: Macedonia",MK: MRT TV 2
-http://admin-mainpanel.club:8080/daniel/daniel/3801
-#EXTINF:-1 tvg-ID="" tvg-name="MK: MTM" tvg-logo="" group-title="Live: Macedonia",MK: MTM
-http://admin-mainpanel.club:8080/daniel/daniel/42226
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: MTV Igman" tvg-logo="" group-title="Live: Macedonia",MK: MTV Igman
-http://admin-mainpanel.club:8080/daniel/daniel/10062
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Nasa TV (Nasha TV)" tvg-logo="" group-title="Live: Macedonia",MK: Nasa TV (Nasha TV)
-http://admin-mainpanel.club:8080/daniel/daniel/16302
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Sandzak TV" tvg-logo="" group-title="Live: Macedonia",MK: Sandzak TV
-http://admin-mainpanel.club:8080/daniel/daniel/10065
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Shenja Tv" tvg-logo="" group-title="Live: Macedonia",MK: Shenja Tv
-http://admin-mainpanel.club:8080/daniel/daniel/16310
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Sitel" tvg-logo="" group-title="Live: Macedonia",MK: Sitel
-http://admin-mainpanel.club:8080/daniel/daniel/3800
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Sitel FHD" tvg-logo="" group-title="Live: Macedonia",MK: Sitel FHD
-http://admin-mainpanel.club:8080/daniel/daniel/3799
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Sky Folk" tvg-logo="" group-title="Live: Macedonia",MK: Sky Folk
-http://admin-mainpanel.club:8080/daniel/daniel/16299
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Sobraniski Kanal" tvg-logo="" group-title="Live: Macedonia",MK: Sobraniski Kanal
-http://admin-mainpanel.club:8080/daniel/daniel/42227
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Sportska TV" tvg-logo="" group-title="Live: Macedonia",MK: Sportska TV
-http://admin-mainpanel.club:8080/daniel/daniel/16298
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Sutel TV" tvg-logo="" group-title="Live: Macedonia",MK: Sutel TV
-http://admin-mainpanel.club:8080/daniel/daniel/16293
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Televizija 5" tvg-logo="" group-title="Live: Macedonia",MK: Televizija 5
-http://admin-mainpanel.club:8080/daniel/daniel/35922
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Telma" tvg-logo="" group-title="Live: Macedonia",MK: Telma
-http://admin-mainpanel.club:8080/daniel/daniel/16309
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MK: Tera TV HD" tvg-logo="" group-title="Live: Macedonia",MK: Tera TV HD
-http://admin-mainpanel.club:8080/daniel/daniel/42211
-#EXTINF:-1 tvg-ID="" tvg-name="MK: TLC" tvg-logo="" group-title="Live: Macedonia",MK: TLC
-http://admin-mainpanel.club:8080/daniel/daniel/42228
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Travel Channel" tvg-logo="" group-title="Live: Macedonia",MK: Travel Channel
-http://admin-mainpanel.club:8080/daniel/daniel/42229
-#EXTINF:-1 tvg-ID="" tvg-name="MK: TV 1000" tvg-logo="" group-title="Live: Macedonia",MK: TV 1000
-http://admin-mainpanel.club:8080/daniel/daniel/42230
-#EXTINF:-1 tvg-ID="" tvg-name="MK: TV Sonce" tvg-logo="" group-title="Live: Macedonia",MK: TV Sonce
-http://admin-mainpanel.club:8080/daniel/daniel/16306
-#EXTINF:-1 tvg-ID="" tvg-name="MK: TV+ Kumanovo" tvg-logo="" group-title="Live: Macedonia",MK: TV+ Kumanovo
-http://admin-mainpanel.club:8080/daniel/daniel/16301
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Viasat Explore" tvg-logo="" group-title="Live: Macedonia",MK: Viasat Explore
-http://admin-mainpanel.club:8080/daniel/daniel/42231
-#EXTINF:-1 tvg-ID="" tvg-name="MK: Viasat History" tvg-logo="" group-title="Live: Macedonia",MK: Viasat History
-http://admin-mainpanel.club:8080/daniel/daniel/42232
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: RTCG 2" tvg-logo="[" group-title="Live: EX-Yu",MNE: RTCG 2
-http://admin-mainpanel.club:8080/daniel/daniel/18210
-#EXTINF:-1 tvg-ID="" tvg-name="MNE: RTCG 1" tvg-logo="[""]" group-title="Live: EX-Yu",MNE: RTCG 1
-http://admin-mainpanel.club:8080/daniel/daniel/18211
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: RTCG Sat" tvg-logo="[" group-title="Live: EX-Yu",MNE: RTCG Sat
-http://admin-mainpanel.club:8080/daniel/daniel/18209
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: Prva TV CG" tvg-logo="[" group-title="Live: EX-Yu",MNE: Prva TV CG
-http://admin-mainpanel.club:8080/daniel/daniel/18207
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: TV Vijesti" tvg-logo="" group-title="Live: EX-Yu",MNE: TV Vijesti
-http://admin-mainpanel.club:8080/daniel/daniel/18208
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: Nova M HD" tvg-logo="[" group-title="Live: EX-Yu",MNE: Nova M HD
-http://admin-mainpanel.club:8080/daniel/daniel/23650
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: Pink M" tvg-logo="" group-title="Live: EX-Yu",MNE: Pink M
-http://admin-mainpanel.club:8080/daniel/daniel/18206
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MNE: Televizija 777" tvg-logo="" group-title="Live: EX-Yu",MNE: Televizija 777
-http://admin-mainpanel.club:8080/daniel/daniel/18204
-NF:-1 tvg-ID="NULL" tvg-name="BG: BNT 1" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 1
-http://admin-mainpanel.club:8080/daniel/daniel/3284
+#EXTINF:-1,EX: HRT 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17331
+#EXTINF:-1,EX: HRT 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17332
+#EXTINF:-1,EX: HRT 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17333
+#EXTINF:-1,EX: HRT 4
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17334
+#EXTINF:-1,EX: RTS 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17335
+#EXTINF:-1,EX: RTS 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17336
+#EXTINF:-1,EX: Prva 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17337
+#EXTINF:-1,EX: PRVA WORLD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17338
+#EXTINF:-1,EX: Prva Plus
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17339
+#EXTINF:-1,EX: RTL
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17340
+#EXTINF:-1,EX: RTL 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17341
+#EXTINF:-1,EX: RTL CRIME
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17342
+#EXTINF:-1,EX: RTL LIVING
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17343
+#EXTINF:-1,EX: RTL PASSION HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17344
+#EXTINF:-1,EX: TLC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17345
+#EXTINF:-1,EX: RTV Novi Pazar
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17346
+#EXTINF:-1,EX: RTV Vojvodina 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17347
+#EXTINF:-1,EX: KCN 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17353
+#EXTINF:-1,EX: KCN 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17354
+#EXTINF:-1,EX: KCN 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17355
+#EXTINF:-1,EX: M 1 FILM
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17356
+#EXTINF:-1,*** FILMSKI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17376
+#EXTINF:-1,EX: TV1000
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17377
+#EXTINF:-1,EX: HBO HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17378
+#EXTINF:-1,EX: HBO 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17379
+#EXTINF:-1,EX: HBO 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17380
+#EXTINF:-1,EX: HBO 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17381
+#EXTINF:-1,EX: fox
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17382
+#EXTINF:-1,EX: FOX CRIME
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17383
+#EXTINF:-1,EX: FOX LIFE
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17384
+#EXTINF:-1,EX: FOX MOVIIES
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17385
+#EXTINF:-1,EX: AMC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17386
+#EXTINF:-1,EX: NOVA TV HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17387
+#EXTINF:-1,EX: CINEMANIA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17388
+#EXTINF:-1,EX: CineMax 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17389
+#EXTINF:-1,EX: CINEMAX. 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17390
+#EXTINF:-1,EX: CINESTAR TV HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17391
+#EXTINF:-1,EX: CineStar Premiere 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17392
+#EXTINF:-1,EX: CINESTAR PREMIERE 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17393
+#EXTINF:-1,EX: CINESTAR TV (RS)
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17394
+#EXTINF:-1,EX: CINESTAR TV ACTION
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17395
+#EXTINF:-1,EX: CINESTAR FANTASY hr
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17396
+#EXTINF:-1,EX: MAX KIDS HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17397
+#EXTINF:-1,EX: KINO TV HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17398
+#EXTINF:-1,EX: FILMBOX EXTRA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17399
+#EXTINF:-1,EX: FILMBOX FILMPLUS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17400
+#EXTINF:-1,*** PINKOVI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17401
+#EXTINF:-1,EX: PINK
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17402
+#EXTINF:-1,EX: PINK BRAVO MUSIC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17403
+#EXTINF:-1,EX: PINK 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17404
+#EXTINF:-1,EX: PINK 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17405
+#EXTINF:-1,EX: PINK ACTION
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17406
+#EXTINF:-1,EX: PINK BH
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17407
+#EXTINF:-1,EX: PINK COMEDY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17408
+#EXTINF:-1,EX: PINK CRIME & MYSTERY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17409
+#EXTINF:-1,EX: PINK FILM
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17410
+#EXTINF:-1,EX: PINK HORROR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17411
+#EXTINF:-1,EX: PINK PEDIA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17412
+#EXTINF:-1,EX: PINK PLUS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17413
+#EXTINF:-1,EX: PINK PREMIUM
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17414
+#EXTINF:-1,EX: PINK REALITY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17415
+#EXTINF:-1,EX: PINK ROMANCE
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17416
+#EXTINF:-1,EX: PINK SCI AND FANTASY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17417
+#EXTINF:-1,EX: PINK LOL
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17418
+#EXTINF:-1,EX: PINK THRILLER
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17419
+#EXTINF:-1,EX: PINK WESTERN
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17420
+#EXTINF:-1,EX: PINK ZABAVA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17421
+#EXTINF:-1,*** MUSIC EX-YU ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17422
+#EXTINF:-1,EX: YU Planet
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17423
+#EXTINF:-1,EX: TV Duga Plus
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17424
+#EXTINF:-1,EX: PINK FOLK 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17425
+#EXTINF:-1,EX: PINK FOLK 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17426
+#EXTINF:-1,EX: Grand TV
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17427
+#EXTINF:-1,EX: GRAND 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17428
+#EXTINF:-1,EX: DM SAT
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17429
+#EXTINF:-1,EX: HAYAT FOLK
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17430
+#EXTINF:-1,EX: HAYAT MUSIC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17431
+#EXTINF:-1,EX: BN Music
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17432
+#EXTINF:-1,EX: City TV
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17433
+#EXTINF:-1,EX: OTV- VALENTINO
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17434
+#EXTINF:-1,*** DJECIJI KANALI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17435
+#EXTINF:-1,EX: PINK KIDS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17436
+#EXTINF:-1,EX: HAYATOVCI
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17437
+#EXTINF:-1,EX: NICK JUNIOR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17438
+#EXTINF:-1,EX: NICKELODEON
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17439
+#EXTINF:-1,EX: RTL Kockica
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17440
+#EXTINF:-1,*** DOCUMENTARNI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17441
+#EXTINF:-1,EX: Doma TV
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17442
+#EXTINF:-1,EX: HISTORY CHANNEL
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17443
+#EXTINF:-1,EX: Nat Geo WILD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17444
+#EXTINF:-1,EX: Discovery Channel
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17445
+#EXTINF:-1,EX: National Geographic
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17446
+#EXTINF:-1,EX: Viasat Explorer
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17447
+#EXTINF:-1,EX: Viasat Nature
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17448
+#EXTINF:-1,EX: Viasat History
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17449
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇  Arena Sport ▇ ▆ ▅ ▄ ▃
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/751
+#EXTINF:-1,EX-YO: Arena Sport 1 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
+#EXTINF:-1,EX-YO: Arena Sport 2 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
+#EXTINF:-1,EX-YO: Arena Sport 3 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
+#EXTINF:-1,EX-YO: Arena Sport 4 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
+#EXTINF:-1,EX-YO: Arena Sport 5 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/742
+#EXTINF:-1,EX-YO: Arena Sport 1 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/749
+#EXTINF:-1,EX-YO: Arena Sport 2 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/747
+#EXTINF:-1,EX-YO: Arena Sport 3 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
+#EXTINF:-1,EX-YO: Arena Sport 4 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
+#EXTINF:-1,EX-YO: Arena Sport 5 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
+#EXTINF:-1,EX-YO: Sport Klub 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
+#EXTINF:-1,EX-YO: Sport Klub 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
+#EXTINF:-1,EX-YO: Sport Klub 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
+#EXTINF:-1,EX-YO: Sport Klub 4
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
+#EXTINF:-1,EX-YO: Sport Klub 5
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
+#EXTINF:-1,EX-YO: Sport Klub 6
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BNT 1" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 1
+http://admin-mainpanel.club:8080/dok/dok/3284
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BNT 2" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 2
-http://admin-mainpanel.club:8080/daniel/daniel/3263
+http://admin-mainpanel.club:8080/dok/dok/3263
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BNT 3" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 3
-http://admin-mainpanel.club:8080/daniel/daniel/3283
+http://admin-mainpanel.club:8080/dok/dok/3283
 #EXTINF:-1 tvg-ID="" tvg-name="BG: BNT 4" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 4
-http://admin-mainpanel.club:8080/daniel/daniel/19595
+http://admin-mainpanel.club:8080/dok/dok/19595
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV HD" tvg-logo="" group-title="Live: Bulgaria",BG: bTV HD
-http://admin-mainpanel.club:8080/daniel/daniel/3282
+http://admin-mainpanel.club:8080/dok/dok/3282
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Comedy" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Comedy
-http://admin-mainpanel.club:8080/daniel/daniel/3256
+http://admin-mainpanel.club:8080/dok/dok/3256
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Cinema" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Cinema
-http://admin-mainpanel.club:8080/daniel/daniel/3268
+http://admin-mainpanel.club:8080/dok/dok/3268
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Action HD" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Action HD
-http://admin-mainpanel.club:8080/daniel/daniel/3269
+http://admin-mainpanel.club:8080/dok/dok/3269
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Lady" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Lady
-http://admin-mainpanel.club:8080/daniel/daniel/3255
+http://admin-mainpanel.club:8080/dok/dok/3255
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 1 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 1 HD
-http://admin-mainpanel.club:8080/daniel/daniel/14936
+http://admin-mainpanel.club:8080/dok/dok/14936
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/14937
+http://admin-mainpanel.club:8080/dok/dok/14937
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 3 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/20341
+http://admin-mainpanel.club:8080/dok/dok/20341
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 4 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 4 HD
-http://admin-mainpanel.club:8080/daniel/daniel/26353
+http://admin-mainpanel.club:8080/dok/dok/26353
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema TV" tvg-logo="" group-title="Live: Bulgaria",BG: Diema TV
-http://admin-mainpanel.club:8080/daniel/daniel/3279
+http://admin-mainpanel.club:8080/dok/dok/3279
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Sport FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport FHD
-http://admin-mainpanel.club:8080/daniel/daniel/40770
+http://admin-mainpanel.club:8080/dok/dok/40770
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport HD
-http://admin-mainpanel.club:8080/daniel/daniel/3281
+http://admin-mainpanel.club:8080/dok/dok/3281
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Diema Sport 2 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport 2 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/40769
+http://admin-mainpanel.club:8080/dok/dok/40769
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Sport 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/3280
+http://admin-mainpanel.club:8080/dok/dok/3280
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Family" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Family
-http://admin-mainpanel.club:8080/daniel/daniel/3254
+http://admin-mainpanel.club:8080/dok/dok/3254
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: 100 Automoto TV" tvg-logo="" group-title="Live: Bulgaria",BG: 100 Automoto TV
-http://admin-mainpanel.club:8080/daniel/daniel/26502
+http://admin-mainpanel.club:8080/dok/dok/26502
 #EXTINF:-1 tvg-ID="" tvg-name="BG: 24 Kitchen FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: 24 Kitchen FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26533
+http://admin-mainpanel.club:8080/dok/dok/26533
 #EXTINF:-1 tvg-ID="" tvg-name="BG: 24 Kitchen HD" tvg-logo="" group-title="Live: Bulgaria",BG: 24 Kitchen HD
-http://admin-mainpanel.club:8080/daniel/daniel/26546
+http://admin-mainpanel.club:8080/dok/dok/26546
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: 78 TV" tvg-logo="" group-title="Live: Bulgaria",BG: 78 TV
-http://admin-mainpanel.club:8080/daniel/daniel/3261
+http://admin-mainpanel.club:8080/dok/dok/3261
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Action Plus HD" tvg-logo="" group-title="Live: Bulgaria",BG: Action Plus HD
-http://admin-mainpanel.club:8080/daniel/daniel/3285
+http://admin-mainpanel.club:8080/dok/dok/3285
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Agro TV" tvg-logo="" group-title="Live: Bulgaria",BG: Agro TV
-http://admin-mainpanel.club:8080/daniel/daniel/51838
+http://admin-mainpanel.club:8080/dok/dok/51838
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Alfa TV" tvg-logo="" group-title="Live: Bulgaria",BG: Alfa TV
-http://admin-mainpanel.club:8080/daniel/daniel/3260
+http://admin-mainpanel.club:8080/dok/dok/3260
 #EXTINF:-1 tvg-ID="" tvg-name="BG: AMC" tvg-logo="" group-title="Live: Bulgaria",BG: AMC
-http://admin-mainpanel.club:8080/daniel/daniel/26501
+http://admin-mainpanel.club:8080/dok/dok/26501
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Animal Planet FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Animal Planet FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26532
+http://admin-mainpanel.club:8080/dok/dok/26532
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Auto Motor Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Auto Motor Sport HD
-http://admin-mainpanel.club:8080/daniel/daniel/41914
+http://admin-mainpanel.club:8080/dok/dok/41914
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: AXN HD" tvg-logo="" group-title="Live: Bulgaria",BG: AXN HD
-http://admin-mainpanel.club:8080/daniel/daniel/26535
+http://admin-mainpanel.club:8080/dok/dok/26535
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Baby TV" tvg-logo="" group-title="Live: Bulgaria",BG: Baby TV
-http://admin-mainpanel.club:8080/daniel/daniel/26545
+http://admin-mainpanel.club:8080/dok/dok/26545
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Balkanika Music TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Balkanika Music TV HD
-http://admin-mainpanel.club:8080/daniel/daniel/3259
+http://admin-mainpanel.club:8080/dok/dok/3259
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BG Music HD" tvg-logo="" group-title="Live: Bulgaria",BG: BG Music HD
-http://admin-mainpanel.club:8080/daniel/daniel/3258
+http://admin-mainpanel.club:8080/dok/dok/3258
 #EXTINF:-1 tvg-ID="" tvg-name="BG: BG-DNES FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: BG-DNES FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26531
+http://admin-mainpanel.club:8080/dok/dok/26531
 #EXTINF:-1 tvg-ID="" tvg-name="BG: BH TV" tvg-logo="" group-title="Live: Bulgaria",BG: BH TV
-http://admin-mainpanel.club:8080/daniel/daniel/51839
+http://admin-mainpanel.club:8080/dok/dok/51839
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Bloomberg" tvg-logo="" group-title="Live: Bulgaria",BG: Bloomberg
-http://admin-mainpanel.club:8080/daniel/daniel/27879
+http://admin-mainpanel.club:8080/dok/dok/27879
 #EXTINF:-1 tvg-ID="" tvg-name="BG: BNP TV" tvg-logo="" group-title="Live: Bulgaria",BG: BNP TV
-http://admin-mainpanel.club:8080/daniel/daniel/51840
+http://admin-mainpanel.club:8080/dok/dok/51840
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Box TV" tvg-logo="" group-title="Live: Bulgaria",BG: Box TV
-http://admin-mainpanel.club:8080/daniel/daniel/3257
+http://admin-mainpanel.club:8080/dok/dok/3257
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BSTV" tvg-logo="" group-title="Live: Bulgaria",BG: BSTV
-http://admin-mainpanel.club:8080/daniel/daniel/31269
+http://admin-mainpanel.club:8080/dok/dok/31269
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Bulgaria 24" tvg-logo="" group-title="Live: Bulgaria",BG: Bulgaria 24
-http://admin-mainpanel.club:8080/daniel/daniel/26544
+http://admin-mainpanel.club:8080/dok/dok/26544
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Bulgaria On Air" tvg-logo="" group-title="Live: Bulgaria",BG: Bulgaria On Air
-http://admin-mainpanel.club:8080/daniel/daniel/3265
+http://admin-mainpanel.club:8080/dok/dok/3265
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Cartoon Network" tvg-logo="" group-title="Live: Bulgaria",BG: Cartoon Network
-http://admin-mainpanel.club:8080/daniel/daniel/26543
+http://admin-mainpanel.club:8080/dok/dok/26543
 #EXTINF:-1 tvg-ID="" tvg-name="BG: CBS Reality" tvg-logo="" group-title="Live: Bulgaria",BG: CBS Reality
-http://admin-mainpanel.club:8080/daniel/daniel/51842
+http://admin-mainpanel.club:8080/dok/dok/51842
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Sportal.bg" tvg-logo="" group-title="Live: Bulgaria",BG: Sportal.bg
-http://admin-mainpanel.club:8080/daniel/daniel/26498
+http://admin-mainpanel.club:8080/dok/dok/26498
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Cherno More" tvg-logo="" group-title="Live: Bulgaria",BG: Cherno More
-http://admin-mainpanel.club:8080/daniel/daniel/26529
+http://admin-mainpanel.club:8080/dok/dok/26529
 #EXTINF:-1 tvg-ID="" tvg-name="BG: CI" tvg-logo="" group-title="Live: Bulgaria",BG: CI
-http://admin-mainpanel.club:8080/daniel/daniel/51841
+http://admin-mainpanel.club:8080/dok/dok/51841
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Cinema Plus" tvg-logo="" group-title="Live: Bulgaria",BG: Cinema Plus
-http://admin-mainpanel.club:8080/daniel/daniel/3267
+http://admin-mainpanel.club:8080/dok/dok/3267
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: CineMax 1 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: CineMax 1 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/17948
+http://admin-mainpanel.club:8080/dok/dok/17948
 #EXTINF:-1 tvg-ID="" tvg-name="BG: CineMax 2 FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: CineMax 2 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/17949
+http://admin-mainpanel.club:8080/dok/dok/17949
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: City TV" tvg-logo="" group-title="Live: Bulgaria",BG: City TV
-http://admin-mainpanel.club:8080/daniel/daniel/19596
+http://admin-mainpanel.club:8080/dok/dok/19596
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Comedy Plus" tvg-logo="" group-title="Live: Bulgaria",BG: Comedy Plus
-http://admin-mainpanel.club:8080/daniel/daniel/3266
+http://admin-mainpanel.club:8080/dok/dok/3266
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Da Vinci Learning" tvg-logo="" group-title="Live: Bulgaria",BG: Da Vinci Learning
-http://admin-mainpanel.club:8080/daniel/daniel/51843
+http://admin-mainpanel.club:8080/dok/dok/51843
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: DESTINATIONS" tvg-logo="" group-title="Live: Bulgaria",BG: DESTINATIONS
-http://admin-mainpanel.club:8080/daniel/daniel/26500
+http://admin-mainpanel.club:8080/dok/dok/26500
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Discovery Channel FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Discovery Channel FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26528
+http://admin-mainpanel.club:8080/dok/dok/26528
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Discovery Science FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Discovery Science FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26527
+http://admin-mainpanel.club:8080/dok/dok/26527
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Disney HD" tvg-logo="" group-title="Live: Bulgaria",BG: Disney HD
-http://admin-mainpanel.club:8080/daniel/daniel/26534
+http://admin-mainpanel.club:8080/dok/dok/26534
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Vivacom Arena FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Vivacom Arena FHD
-http://admin-mainpanel.club:8080/daniel/daniel/51844
+http://admin-mainpanel.club:8080/dok/dok/51844
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Djazz HD" tvg-logo="" group-title="Live: Bulgaria",BG: Djazz HD
-http://admin-mainpanel.club:8080/daniel/daniel/3252
+http://admin-mainpanel.club:8080/dok/dok/3252
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: DSTV" tvg-logo="" group-title="Live: Bulgaria",BG: DSTV
-http://admin-mainpanel.club:8080/daniel/daniel/26542
+http://admin-mainpanel.club:8080/dok/dok/26542
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Duck TV" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Duck TV
-http://admin-mainpanel.club:8080/daniel/daniel/26541
+http://admin-mainpanel.club:8080/dok/dok/26541
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Ekids" tvg-logo="" group-title="Live: Bulgaria",BG: Ekids
-http://admin-mainpanel.club:8080/daniel/daniel/19597
+http://admin-mainpanel.club:8080/dok/dok/19597
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Eurosport 1 FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Eurosport 1 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26526
+http://admin-mainpanel.club:8080/dok/dok/26526
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Eurosport 2 FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Eurosport 2 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26525
+http://admin-mainpanel.club:8080/dok/dok/26525
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Evrokom" tvg-logo="" group-title="Live: Bulgaria",BG: Evrokom
-http://admin-mainpanel.club:8080/daniel/daniel/19598
+http://admin-mainpanel.club:8080/dok/dok/19598
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: F Plus" tvg-logo="" group-title="Live: Bulgaria",BG: F Plus
-http://admin-mainpanel.club:8080/daniel/daniel/3278
+http://admin-mainpanel.club:8080/dok/dok/3278
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Fen TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Fen TV HD
-http://admin-mainpanel.club:8080/daniel/daniel/3253
+http://admin-mainpanel.club:8080/dok/dok/3253
 #EXTINF:-1 tvg-ID="" tvg-name="BG: FightBox FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: FightBox FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26524
+http://admin-mainpanel.club:8080/dok/dok/26524
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: FilmBox Extra HD" tvg-logo="" group-title="Live: Bulgaria",BG: FilmBox Extra HD
-http://admin-mainpanel.club:8080/daniel/daniel/3251
+http://admin-mainpanel.club:8080/dok/dok/3251
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Fine Living" tvg-logo="" group-title="Live: Bulgaria",BG: Fine Living
-http://admin-mainpanel.club:8080/daniel/daniel/51845
+http://admin-mainpanel.club:8080/dok/dok/51845
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Folklor TV" tvg-logo="" group-title="Live: Bulgaria",BG: Folklor TV
-http://admin-mainpanel.club:8080/daniel/daniel/26549
+http://admin-mainpanel.club:8080/dok/dok/26549
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Food Network FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Food Network FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26523
+http://admin-mainpanel.club:8080/dok/dok/26523
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Fox Crime FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Fox Crime FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26522
+http://admin-mainpanel.club:8080/dok/dok/26522
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: FOX FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: FOX FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26521
+http://admin-mainpanel.club:8080/dok/dok/26521
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Fox Life FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Fox Life FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26520
+http://admin-mainpanel.club:8080/dok/dok/26520
 #EXTINF:-1 tvg-ID="" tvg-name="BG: HBO 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: HBO 2 HD
-http://admin-mainpanel.club:8080/daniel/daniel/17399
+http://admin-mainpanel.club:8080/dok/dok/17399
 #EXTINF:-1 tvg-ID="" tvg-name="BG: HBO 3 HD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: HBO 3 HD
-http://admin-mainpanel.club:8080/daniel/daniel/17400
+http://admin-mainpanel.club:8080/dok/dok/17400
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: HBO HD" tvg-logo="" group-title="Live: Bulgaria",BG: HBO HD
-http://admin-mainpanel.club:8080/daniel/daniel/17401
+http://admin-mainpanel.club:8080/dok/dok/17401
 #EXTINF:-1 tvg-ID="" tvg-name="BG: History Channel FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: History Channel FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26519
+http://admin-mainpanel.club:8080/dok/dok/26519
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Hit Mix Channel" tvg-logo="" group-title="Live: Bulgaria",BG: Hit Mix Channel
-http://admin-mainpanel.club:8080/daniel/daniel/26540
+http://admin-mainpanel.club:8080/dok/dok/26540
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Hobby Lov" tvg-logo="" group-title="Live: Bulgaria",BG: Hobby Lov
-http://admin-mainpanel.club:8080/daniel/daniel/3264
+http://admin-mainpanel.club:8080/dok/dok/3264
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Hobby TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Hobby TV HD
-http://admin-mainpanel.club:8080/daniel/daniel/3277
+http://admin-mainpanel.club:8080/dok/dok/3277
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: iConcerts HD" tvg-logo="" group-title="Live: Bulgaria",BG: iConcerts HD
-http://admin-mainpanel.club:8080/daniel/daniel/26497
+http://admin-mainpanel.club:8080/dok/dok/26497
 #EXTINF:-1 tvg-ID="" tvg-name="BG: ID Xtra FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: ID Xtra FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26518
+http://admin-mainpanel.club:8080/dok/dok/26518
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Jim Jam" tvg-logo="" group-title="Live: Bulgaria",BG: Jim Jam
-http://admin-mainpanel.club:8080/daniel/daniel/26504
+http://admin-mainpanel.club:8080/dok/dok/26504
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Kanal 3" tvg-logo="" group-title="Live: Bulgaria",BG: Kanal 3
-http://admin-mainpanel.club:8080/daniel/daniel/3250
+http://admin-mainpanel.club:8080/dok/dok/3250
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: KHL FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: KHL FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26536
+http://admin-mainpanel.club:8080/dok/dok/26536
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: KinoNova" tvg-logo="" group-title="Live: Bulgaria",BG: KinoNova
-http://admin-mainpanel.club:8080/daniel/daniel/3276
+http://admin-mainpanel.club:8080/dok/dok/3276
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Light Channel" tvg-logo="" group-title="Live: Bulgaria",BG: Light Channel
-http://admin-mainpanel.club:8080/daniel/daniel/51837
+http://admin-mainpanel.club:8080/dok/dok/51837
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Light FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Light FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26517
+http://admin-mainpanel.club:8080/dok/dok/26517
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: MagicTV" tvg-logo="" group-title="Live: Bulgaria",BG: MagicTV
-http://admin-mainpanel.club:8080/daniel/daniel/3262
+http://admin-mainpanel.club:8080/dok/dok/3262
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Moviestar" tvg-logo="" group-title="Live: Bulgaria",BG: Moviestar
-http://admin-mainpanel.club:8080/daniel/daniel/51846
+http://admin-mainpanel.club:8080/dok/dok/51846
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: MTV" tvg-logo="" group-title="Live: Bulgaria",BG: MTV
-http://admin-mainpanel.club:8080/daniel/daniel/26496
+http://admin-mainpanel.club:8080/dok/dok/26496
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nat Geo FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Nat Geo FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26516
+http://admin-mainpanel.club:8080/dok/dok/26516
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Nat Geo Wild FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Nat Geo Wild FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26515
+http://admin-mainpanel.club:8080/dok/dok/26515
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Nick JR" tvg-logo="" group-title="Live: Bulgaria",BG: Nick JR
-http://admin-mainpanel.club:8080/daniel/daniel/51828
+http://admin-mainpanel.club:8080/dok/dok/51828
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nickelodeon" tvg-logo="" group-title="Live: Bulgaria",BG: Nickelodeon
-http://admin-mainpanel.club:8080/daniel/daniel/26539
+http://admin-mainpanel.club:8080/dok/dok/26539
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nova Sport FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Nova Sport FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26514
+http://admin-mainpanel.club:8080/dok/dok/26514
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nova Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Nova Sport HD
-http://admin-mainpanel.club:8080/daniel/daniel/3247
+http://admin-mainpanel.club:8080/dok/dok/3247
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: NOVA TV" tvg-logo="" group-title="Live: Bulgaria",BG: NOVA TV
-http://admin-mainpanel.club:8080/daniel/daniel/3275
+http://admin-mainpanel.club:8080/dok/dok/3275
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Planeta Folk TV" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Planeta Folk TV
-http://admin-mainpanel.club:8080/daniel/daniel/26538
+http://admin-mainpanel.club:8080/dok/dok/26538
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Planeta HD" tvg-logo="" group-title="Live: Bulgaria",BG: Planeta HD
-http://admin-mainpanel.club:8080/daniel/daniel/3274
+http://admin-mainpanel.club:8080/dok/dok/3274
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Retro Music TV" tvg-logo="" group-title="Live: Bulgaria",BG: Retro Music TV
-http://admin-mainpanel.club:8080/daniel/daniel/13842
+http://admin-mainpanel.club:8080/dok/dok/13842
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: RING BG HD" tvg-logo="" group-title="Live: Bulgaria",BG: RING BG HD
-http://admin-mainpanel.club:8080/daniel/daniel/3246
+http://admin-mainpanel.club:8080/dok/dok/3246
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: RING.BG FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: RING.BG FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26513
+http://admin-mainpanel.club:8080/dok/dok/26513
 #EXTINF:-1 tvg-ID="" tvg-name="BG: RodinaTV" tvg-logo="" group-title="Live: Bulgaria",BG: RodinaTV
-http://admin-mainpanel.club:8080/daniel/daniel/51847
+http://admin-mainpanel.club:8080/dok/dok/51847
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Skat" tvg-logo="" group-title="Live: Bulgaria",BG: Skat
-http://admin-mainpanel.club:8080/daniel/daniel/3270
+http://admin-mainpanel.club:8080/dok/dok/3270
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: SPORT Plus HD" tvg-logo="" group-title="Live: Bulgaria",BG: SPORT Plus HD
-http://admin-mainpanel.club:8080/daniel/daniel/3273
+http://admin-mainpanel.club:8080/dok/dok/3273
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Sport+ FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Sport+ FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26512
+http://admin-mainpanel.club:8080/dok/dok/26512
 #EXTINF:-1 tvg-ID="" tvg-name="BG: SPORTAL.BG HD" tvg-logo="" group-title="Live: Bulgaria",BG: SPORTAL.BG HD
-http://admin-mainpanel.club:8080/daniel/daniel/26503
+http://admin-mainpanel.club:8080/dok/dok/26503
 #EXTINF:-1 tvg-ID="" tvg-name="BG: SunriseMusic" tvg-logo="" group-title="Live: Bulgaria",BG: SunriseMusic
-http://admin-mainpanel.club:8080/daniel/daniel/51848
+http://admin-mainpanel.club:8080/dok/dok/51848
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: The Voice" tvg-logo="" group-title="Live: Bulgaria",BG: The Voice
-http://admin-mainpanel.club:8080/daniel/daniel/3272
+http://admin-mainpanel.club:8080/dok/dok/3272
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Tiankov Folk" tvg-logo="" group-title="Live: Bulgaria",BG: Tiankov Folk
-http://admin-mainpanel.club:8080/daniel/daniel/26548
+http://admin-mainpanel.club:8080/dok/dok/26548
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Tiankov Orient Folk" tvg-logo="" group-title="Live: Bulgaria",BG: Tiankov Orient Folk
-http://admin-mainpanel.club:8080/daniel/daniel/51849
+http://admin-mainpanel.club:8080/dok/dok/51849
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TLC" tvg-logo="" group-title="Live: Bulgaria",BG: TLC
-http://admin-mainpanel.club:8080/daniel/daniel/17946
+http://admin-mainpanel.club:8080/dok/dok/17946
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Trace Sport Stars HD" tvg-logo="" group-title="Live: Bulgaria",BG: Trace Sport Stars HD
-http://admin-mainpanel.club:8080/daniel/daniel/26547
+http://admin-mainpanel.club:8080/dok/dok/26547
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Travel Channel FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Travel Channel FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26511
+http://admin-mainpanel.club:8080/dok/dok/26511
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Travel HD" tvg-logo="" group-title="Live: Bulgaria",BG: Travel HD
-http://admin-mainpanel.club:8080/daniel/daniel/3248
+http://admin-mainpanel.club:8080/dok/dok/3248
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Travel TV FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Travel TV FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26510
+http://admin-mainpanel.club:8080/dok/dok/26510
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV 1000" tvg-logo="" group-title="Live: Bulgaria",BG: TV 1000
-http://admin-mainpanel.club:8080/daniel/daniel/17947
+http://admin-mainpanel.club:8080/dok/dok/17947
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV EUROPE" tvg-logo="" group-title="Live: Bulgaria",BG: TV EUROPE
-http://admin-mainpanel.club:8080/daniel/daniel/26499
+http://admin-mainpanel.club:8080/dok/dok/26499
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV Plus" tvg-logo="" group-title="Live: Bulgaria",BG: TV Plus
-http://admin-mainpanel.club:8080/daniel/daniel/3271
+http://admin-mainpanel.club:8080/dok/dok/3271
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV1 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: TV1 FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26509
+http://admin-mainpanel.club:8080/dok/dok/26509
 #EXTINF:-1 tvg-ID="" tvg-name="BG: TVT" tvg-logo="" group-title="Live: Bulgaria",BG: TVT
-http://admin-mainpanel.club:8080/daniel/daniel/51850
+http://admin-mainpanel.club:8080/dok/dok/51850
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Viasat History FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Viasat History FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26508
+http://admin-mainpanel.club:8080/dok/dok/26508
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Viasat Nature & History HD" tvg-logo="[" group-title="Live: Bulgaria",BG: Viasat Nature & History HD
-http://admin-mainpanel.club:8080/daniel/daniel/3249
+http://admin-mainpanel.club:8080/dok/dok/3249
 #EXTINF:-1 tvg-ID="" tvg-name="BG: VTK" tvg-logo="" group-title="Live: Bulgaria",BG: VTK
-http://admin-mainpanel.club:8080/daniel/daniel/26537
+http://admin-mainpanel.club:8080/dok/dok/26537
 #EXTINF:-1 tvg-ID="" tvg-name="BG: Wild TV FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Wild TV FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26507
+http://admin-mainpanel.club:8080/dok/dok/26507
 #EXTINF:-1 tvg-ID="NULL" tvg-name="BG: WnessTV FHD" tvg-logo="" group-title="Live: Bulgaria",BG: WnessTV FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26506
+http://admin-mainpanel.club:8080/dok/dok/26506
 #EXTINF:-1 tvg-ID="" tvg-name="BG: World Fight Channel FHD" tvg-logo="" group-title="Live: Bulgaria",BG: World Fight Channel FHD
-http://admin-mainpanel.club:8080/daniel/daniel/26505
+http://admin-mainpanel.club:8080/dok/dok/26505
